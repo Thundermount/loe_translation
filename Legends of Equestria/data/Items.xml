@@ -24,7 +24,7 @@
     <Icon>1</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Свежее зеленое яблоко. Оно немного кислое, но некоторым такое нравится.</Description>
+    <Description>Свежее зеленое яблоко. Оно немного кислое, но, возможно, оно вам понравится.</Description>
     <Name>Зеленое яблоко</Name>
     <ResourcePath />
     <Stackable>true</Stackable>
@@ -99,7 +99,7 @@
     <Icon>2</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Свежее красное яблоко прямо с фермы.</Description>
+    <Description>Свежее красное яблоко, прямиком с фермы.</Description>
     <Name>Красное яблоко</Name>
     <ResourcePath />
     <Stackable>true</Stackable>
@@ -174,7 +174,7 @@
     <Icon>3</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Это яблоко такое сладкое, что его даже не приправляют конфетами.</Description>
+    <Description>Если вы ищете яблоко, от которого не будет отдавать сладостью - вот и оно!</Description>
     <Name>Желтое яблоко</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
@@ -249,7 +249,7 @@
     <Icon>4</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Бананы обычно растут в тропиках.</Description>
+    <Description>Бананы растут в тропической не-лунной среде.</Description>
     <Name>Банан</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
@@ -423,7 +423,7 @@
     <Icon>7</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Обычное повседневное угощение, купленное в магазине!</Description>
+    <Description>Типичное магазинное лакомство!</Description>
     <Name>Печенье</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
@@ -481,7 +481,7 @@
     <Icon>8</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Обычный кексик с вишенкой навершине.</Description>
+    <Description>Обычный кексик с вишенкой на вершине.</Description>
     <Name>Мини кексик</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
@@ -539,7 +539,7 @@
     <Icon>9</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Свежая сочная груша. Видимо для вас яблоки не достаточно хороши.</Description>
+    <Description>Свежая сочная груша. Видимо, яблоки для вас не достаточно хороши.</Description>
     <Name>Груша</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
@@ -671,7 +671,7 @@
     <Icon>13</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Труба. Подходит для концертов, танцевальных залов и импровизирванных дней суда.</Description>
+    <Description>Труба. Подходит для концертов, танцевальных залов и импровизирванного судного дня.</Description>
     <Name>Труба</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
@@ -709,7 +709,7 @@
     <Icon>15</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Кусок руды. Интересно что бы там могло быть?</Description>
+    <Description>Кусок руды. Интересно, что бы там могло быть?</Description>
     <Name>Кусок руды</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
@@ -766,7 +766,7 @@
     <Icon>51</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Для пони с плохим зрением или тех, кто просто любит моду, подойдут эти надежные очки!</Description>
+    <Description>Надёжные очки для пони с плохим зрением, или тех, кто просто ценит моду!</Description>
     <Name>Очки</Name>
     <ResourcePath>Hats/glasses</ResourcePath>
     <Stackable>true</Stackable>
@@ -804,7 +804,7 @@
     <Icon>34</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>В них конечно можно носить сок, но будьте осторожны где вы их храните. </Description>
+    <Description>Можно использовать для ношения сока, но будьте осторожны с выбором места для хранения. </Description>
     <Name>Сумки с зельями</Name>
     <ResourcePath>Saddlebags/potion_bag</ResourcePath>
     <Stackable>true</Stackable>
@@ -861,7 +861,7 @@
     <Icon>50</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Легенда гласит, что сьи копытка влезут в эти туфельки те буду выглядеть великолепно на Гала концерте.</Description>
+    <Description>Легенда гласит, что сьи копытка влезут в эти туфельки те буду выглядеть великолепно на Гала-концерте.</Description>
     <Name>Гала туфельки</Name>
     <ResourcePath>Boots/gala_boots</ResourcePath>
     <Stackable>true</Stackable>
@@ -880,8 +880,8 @@
     <Icon>30</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>A useful tool for chipping away at rocks and the occasional mineral.</Description>
-    <Name>Pickaxe</Name>
+    <Description>Полезный инструмент для добычи камней и различных минералов.</Description>
+    <Name>Кирка</Name>
     <ResourcePath>Tools/pickaxe</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>8</MaxStackSize>
@@ -899,7 +899,7 @@
     <Icon>17</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Было бы глупо пытаться перечислить каждое использование молотка, поскольку это один из самых универсальных инструментов. </Description>
+    <Description>Было бы глупо пытаться перечислить все виды применения молотка, поскольку это один из самых универсальных инструментов. </Description>
     <Name>Молоток</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
@@ -918,7 +918,7 @@
     <Icon>73</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Тут должна быть шутка с игрой слов на английском.</Description>
+    <Description>Натуральная, но без соломинки.</Description>
     <Name>Клубника</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
@@ -1072,8 +1072,8 @@
     <Icon>43</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Feeling hungry? Once you open this, you can eat to your heart's content.</Description>
-    <Name>Food Box</Name>
+    <Description>Проголодались? В этой коробке есть всё что душа пожелает!</Description>
+    <Name>Коробка с едой</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>10</MaxStackSize>
@@ -1091,8 +1091,8 @@
     <Icon>374</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Кепка, показывающая, что вы помощник медсестры (хотя лучше не касаться медицинских вопросов, пока вы не пройдете надлежащую подготовку).</Description>
-    <Name>Кепка помощника медсестры</Name>
+    <Description>Шапочка, показывающая, что вы помощник медсестры (хотя лучше не касаться медицинских вопросов, пока вы не пройдете надлежащую подготовку).</Description>
+    <Name>Шапочка помощника медсестры</Name>
     <ResourcePath>Hats/NurseCap</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>10</MaxStackSize>
@@ -1110,7 +1110,7 @@
     <Icon>38</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Из чего сделана радуга? </Description>
+    <Description>Таинственная разноцветная жидкость. </Description>
     <Name>Эссенция радуги</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
@@ -1129,8 +1129,8 @@
     <Icon>71</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Эта каска врят ли защитит от чего то серьезного, но лучше не испытывать судьбу.</Description>
-    <Name>Строительная каска</Name>
+    <Description>Она защитит вас от любого удара. Но лучше не испытывайте судьбу.</Description>
+    <Name>Каска</Name>
     <ResourcePath>Hats/firepony</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>10</MaxStackSize>
@@ -1189,7 +1189,7 @@
     <Icon>78</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Деревянная ложка, идеально для смешивания ингридиентов!</Description>
+    <Description>Деревянная ложка, идеально подходит для смешивания ингредиентов!</Description>
     <Name>Ложка для смешивания</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
@@ -1208,8 +1208,8 @@
     <Icon>79</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Кусачий свет на палке! Дает свет, а еще можно что нибудь поджечь. </Description>
-    <Name>Torch</Name>
+    <Description>Огонь на палочке! Позволяет осветить окружение и труднодоступные места. </Description>
+    <Name>Факел</Name>
     <ResourcePath>Saddlebags/torch</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>10</MaxStackSize>
@@ -1227,8 +1227,8 @@
     <Icon>69</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Ведро для воды. Оно так же может быть крутым шлемом. Но лучше все же использовать его по назначению. </Description>
-    <Name>Ведро для воды</Name>
+    <Description>Ведро для воды. Оно может послужить классным шлемом! Но лучше всё же в качестве емкости для воды. </Description>
+    <Name>Пустое ведро</Name>
     <ResourcePath>Saddlebags/bucket</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>10</MaxStackSize>
@@ -1246,8 +1246,8 @@
     <Icon>70</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Ведро для воды. Оно так же может быть крутым шлемом. Но лучше все же использовать его по назначению. Внутри этого есть вода! </Description>
-    <Name>Ведро для воды (Полное)</Name>
+    <Description>Ведро для воды. Оно может послужить классным шлемом! Но лучше всё же в качестве емкости для воды. Внутри есть вода! </Description>
+    <Name>Ведро с водой</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>10</MaxStackSize>
@@ -1265,8 +1265,8 @@
     <Icon>85</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>A frozen drop of cloud essence. It could be useful to somepony.</Description>
-    <Name>Frozen Essence Drops</Name>
+    <Description>Замерзшая облачная эссенция. Она наверняка пони-будь пригодится.</Description>
+    <Name>Кусочек замороженной эссенции</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>50</MaxStackSize>
@@ -1284,8 +1284,8 @@
     <Icon>18</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Zut alors! It's all for one, and one for fancy with this iconic piece of headwear. </Description>
-    <Name>Musketeer Hat</Name>
+    <Description>Божечки! Одна на всех и все с воспоминанием о культовости головного убора. </Description>
+    <Name>Шляпа мушкетера</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>10</MaxStackSize>
@@ -1303,8 +1303,8 @@
     <Icon>75</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>An egg, freshly laid and collected this morning. Don't put too many of these in one saddlebag.</Description>
-    <Name>Egg</Name>
+    <Description>Яйцо, снесено и собрано этим утром. Не кладите их все в одну сумку!</Description>
+    <Name>Яйцо</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>30</MaxStackSize>
@@ -1344,8 +1344,8 @@
     <Icon>72</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Книга которую Skyhammer дал вам чтобы вернуть в Final Ink в библиотеке Кантерлота. </Description>
-    <Name>Книга Skyhammer'а</Name>
+    <Description>Skyhammer попросил передать эту книгу Final Ink в библиотеке Кантерлота. </Description>
+    <Name>Книга от Skyhammer</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>5</MaxStackSize>
@@ -1363,8 +1363,8 @@
     <Icon>55</Icon>
     <ItemLevel>2</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>A fine pastry topped with a mountain of whipped cream. Looks delicious. </Description>
-    <Name>Whipped Cream Pie</Name>
+    <Description>Прекрасное тесто, набитое взбитыми сливками. Выглядит очень вкусно. </Description>
+    <Name>Пирог со взбитыми сливками</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>32</MaxStackSize>
@@ -1421,7 +1421,7 @@
     <Icon>55</Icon>
     <ItemLevel>4</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Свежеиспеченный яблочный пирог. Выглядит вкусно. </Description>
+    <Description>Свежеиспеченный яблочный пирог. Выглядит очень вкусно. </Description>
     <Name>Яблочный пирог</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
@@ -1479,7 +1479,7 @@
     <Icon>58</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Пирог с крыжовником. Выглядит сытно. </Description>
+    <Description>Пирог с крыжовником. Выглядит очень вкусно. </Description>
     <Name>Пирог с крыжовником</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
@@ -1537,8 +1537,8 @@
     <Icon>55</Icon>
     <ItemLevel>4</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Великолепное сочетание ирисок, пирога и бананов. Выглядит сладким!</Description>
-    <Name>Banoffee Pie</Name>
+    <Description>Великолепное сочетание ирисок, пирога и бананов. Выглядит очень вкусно. </Description>
+    <Name>Банано-ирисковый пирог</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>32</MaxStackSize>
@@ -1653,7 +1653,7 @@
     <Icon>57</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Свежий пирог с малиной. Выглядит сладким! </Description>
+    <Description>Свежий пирог с малиной. Выглядит очень вкусно. </Description>
     <Name>Пирог с малиной</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
@@ -1711,7 +1711,7 @@
     <Icon>57</Icon>
     <ItemLevel>3</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Свежий вишневый пирог. Выглядит сладким!</Description>
+    <Description>Свежий вишневый пирог. Выглядит очень вкусно.</Description>
     <Name>Вишневый пирог</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
@@ -1769,7 +1769,7 @@
     <Icon>58</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Пирог с черничной начинкой. Выглядит сладким. </Description>
+    <Description>Пирог с черничной начинкой. Выглядит очень вкусно. </Description>
     <Name>Черничный пирог</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
@@ -1827,8 +1827,8 @@
     <Icon>53</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Хм, пустая форма для пирога. Она могла поместиться на твоей голове...</Description>
-    <Name>Пустая форма для пирога</Name>
+    <Description>Хм, пустая форма из под пирога. Она могла поместиться на вашей голове...</Description>
+    <Name>Пустая форма из под пирога</Name>
     <ResourcePath>Hats/pie_tin</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>32</MaxStackSize>
@@ -1846,8 +1846,8 @@
     <Icon>27</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>General Messerchmitt's script. It's full of jargon and words that are long and weird. It says "rhododendron" at one point. No joke.</Description>
-    <Name>General Messerschmitt's Speech</Name>
+    <Description>Речь генерала Messerschmitt. Она полна жаргона, а так же длинных и странных слов. Здесь даже нашлось место для "рододендрон". Это не шутка.</Description>
+    <Name>Речь Генерала Messerschmitt</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>1</MaxStackSize>
@@ -1865,8 +1865,8 @@
     <Icon>27</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Ambitious ponies can earn one of these by sitting quietly through the esteemed general's lengthy war tales.</Description>
-    <Name>Messerchmitt's Letter of Recommendation</Name>
+    <Description>Чтобы заполучить такое письмо, амбициозным пони приходится выслушивать длинные военные рассказы уважаемого генерала.</Description>
+    <Name>Рекомендательное письмо от Messerchmitt</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>1</MaxStackSize>
@@ -1903,7 +1903,7 @@
     <Icon>62</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>A finely crafted Cloudopolis champron.</Description>
+    <Description>Этот шанфрон является прекрасным издением мастеров Клаудсдейла.</Description>
     <Name>Латунный шлем</Name>
     <ResourcePath>Clothes/Bronze Armor Helmet</ResourcePath>
     <Stackable>true</Stackable>
@@ -1922,7 +1922,7 @@
     <Icon>66</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>A durable peytral emblazoned with the emblem of a Cloudopolis craftspony.</Description>
+    <Description>Прочный пейтраль с эмблемой мастеров Клаудсдейла.</Description>
     <Name>Латунная нагрудная пластина</Name>
     <ResourcePath>Clothes/Bronze Armor Chest</ResourcePath>
     <Stackable>true</Stackable>
@@ -1941,7 +1941,7 @@
     <Icon>65</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Designed for long stretches of wear. One size fits all.</Description>
+    <Description>Рассчитаны на длительное ношение. Размер един для всех.</Description>
     <Name>Латунные передние ножки</Name>
     <ResourcePath>Clothes/Bronze Armor Front Legs</ResourcePath>
     <Stackable>true</Stackable>
@@ -1960,7 +1960,7 @@
     <Icon>47</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>For those who enjoy science but prefer not to be blind.</Description>
+    <Description>Для тех, кто любит науку, но не любит быть слепым.</Description>
     <Name>Лабораторные очки</Name>
     <ResourcePath>Hats/lab goggles</ResourcePath>
     <Stackable>true</Stackable>
@@ -2017,8 +2017,8 @@
     <Icon>46</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Dont hit things too hard with this, or you might break it. Good for costumes, but do not attempt to fight off enemies with it.</Description>
-    <Name>Wooden Sword</Name>
+    <Description>Не бейте им слишком сильно, иначе сломаете. Он хорош для игр, но не для реальных боевых действий.</Description>
+    <Name>Деревянный меч</Name>
     <ResourcePath>Saddlebags/wood_sword</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>10</MaxStackSize>
@@ -2036,8 +2036,8 @@
     <Icon>36</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>How did you get this hat? Give it back to Ellowee this instant!</Description>
-    <Name>Ellowee's Hat</Name>
+    <Description>Откуда она у тебя? Верни её Ellowee сейчас же!</Description>
+    <Name>Шапочка Ellowee</Name>
     <ResourcePath>Hats/elloweehat</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>1</MaxStackSize>
@@ -2055,8 +2055,8 @@
     <Icon>59</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Careful where you wear this. You might mess up someone's perfect lawn.</Description>
-    <Name>Dandelion Bracelet</Name>
+    <Description>Носите с осторожностью. Иначе вы испортите чью-то лужайку.</Description>
+    <Name>Одуванчиковый браслет</Name>
     <ResourcePath>Boots/dandelion_bracelet</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>10</MaxStackSize>
@@ -2074,8 +2074,8 @@
     <Icon>393</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>A freshly picked dandelion. It looks pretty. </Description>
-    <Name>Dandelion</Name>
+    <Description>Свежесорванный одуванчик. Какой он милый. </Description>
+    <Name>Одуванчик</Name>
     <ResourcePath>undefined</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>50</MaxStackSize>
@@ -2093,7 +2093,7 @@
     <Icon>20</Icon>
     <ItemLevel>100</ItemLevel>
     <RequiredLevel>100</RequiredLevel>
-    <Description>Thbbbpt</Description>
+    <Description>Тхбббпт</Description>
     <Name>Fluffle Puff</Name>
     <ResourcePath>Clothes/Flufflepuff</ResourcePath>
     <Stackable>true</Stackable>
@@ -2112,7 +2112,7 @@
     <Icon>42</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>*fluffly noises*</Description>
+    <Description>*пушистые звуки*</Description>
     <Name>Fluffle Hat</Name>
     <ResourcePath>Hats/fluffle</ResourcePath>
     <Stackable>true</Stackable>
@@ -2188,7 +2188,7 @@
     <Icon>83</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Этот камень лучший камень. Посмотри какой он гладкий.</Description>
+    <Description>Этот камень лучше остальных. Посмотри, какой он гладкий.</Description>
     <Name>Гладкий камень</Name>
     <ResourcePath>Undefined</ResourcePath>
     <Stackable>true</Stackable>
@@ -2245,8 +2245,8 @@
     <Icon>110</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>Perfect for a rainy day.</Description>
-    <Name>Raincloud Hat</Name>
+    <Description>Идеально подходит для дождливых дней.</Description>
+    <Name>Шапка дождевая туча</Name>
     <ResourcePath>Hats/Raincloud</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>10</MaxStackSize>
@@ -2264,8 +2264,8 @@
     <Icon>82</Icon>
     <ItemLevel>1</ItemLevel>
     <RequiredLevel>1</RequiredLevel>
-    <Description>A pretty heavy package.</Description>
-    <Name>Big Package</Name>
+    <Description>Довольно увесистая коробка.</Description>
+    <Name>Большая коробка</Name>
     <ResourcePath />
     <Stackable>true</Stackable>
     <MaxStackSize>20</MaxStackSize>
