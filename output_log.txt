@@ -1,0 +1,2539 @@
+Initialize engine version: 2018.1.9f2 (a6cc294b73ee)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4021 MB
+    Driver:   27.21.14.5671
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.055 seconds
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on ChatboxContextManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on MonoBehaviours
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on POI
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.731500 ms
+Initializing Settingsmanager
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+UnityCloudBuildManifest found
+{"cloudBuildTargetName":"win-lar-64-bit","buildNumber":"35","scmCommitId":"2b1449c9261f521b04fb0b3d152fccfffe940322","buildStartTime":"2/11/2021 2:05:08 AM","projectId":"20066102917097/58aff8e4-f9d0-46fe-b4fe-15ef2db745d0","bundleId":"","scmBranch":"LAR","unityVersion":"2018.1.9f2"}
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Setting quality
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+logging in and saving password
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+authenticated. session key q1cLBSGullaOcGe9lCYgdjlVUwdbipyygAaIiH3uT39VAeVLGJSKS3vCpzExO2WV
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Connecting to Amareicas - 104.236.98.39:14000 ()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Unknown dispatcher type . Defaulting to Lidgren
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Dispatch client is PNetC.Impl.LidgrenDispatchClient
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+stalin1337
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+OnConnectedToServer
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 80.098700 ms
+
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 3141.
+Total: 8.162600 ms (FindLiveObjects: 0.623400 ms CreateObjectMapping: 0.063500 ms MarkObjects: 7.392800 ms  DeleteObjects: 0.082700 ms)
+
+disabling mecanim behaviour as it can't find the appropriate transform
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+doing save
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Toon/Basic NDOutline' - Pass 'OUTLINE' has no vertex shader
+WARNING: Shader Unsupported: 'Toon/Basic NDOutline' - All passes removed
+UnloadTime: 79.493900 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+Could not resolve property  on type 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+Could not resolve property  on type 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Could not resolve property  on type 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Could not resolve property  on type 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Could not resolve property  on type 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uguimvvm.INPCBinding.FigureBinding (uguimvvm.ComponentPath path, System.ComponentModel.PropertyChangedEventHandler handler, Boolean resolveDataContext) [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.FigureBindings () [0x00000] in <filename unknown>:0 
+  at uguimvvm.INPCBinding.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:Internal_CloneSingleWithParent(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform, Boolean)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+GUIManager:Awake()
+ 
+(Filename:  Line: -1)
+
+command not found: /load
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+
+Unloading 1576 unused Assets to reduce memory usage. Loaded Objects now: 56253.
+Total: 45.103500 ms (FindLiveObjects: 2.660200 ms CreateObjectMapping: 2.659900 ms MarkObjects: 38.472500 ms  DeleteObjects: 1.310500 ms)
+
+Setting room version to 20180301
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -302.1762, 64.59876, 63.25772 Rot: 0, 80.47063, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new Quest!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new Quest!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new Quest!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new Quest!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new Quest!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new TalentMarkBar!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new TalentMarkBar!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new TalentMarkBar!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new TalentMarkBar!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new TalentMarkBar!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new TalentMarkBar!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new TalentMarkBar!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new TalentMarkBar!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new TalentMarkBar!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Hotbar.RegisterCommands () [0x00000] in <filename unknown>:0 
+  at Hotbar.OnScrollValueChanged (Single ScrollValue) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall`1[System.Single].Invoke (Single args0) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent`1[System.Single].Invoke (Single arg0) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Scrollbar.Set (Single input, Boolean sendCallback) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Scrollbar.Set (Single input) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Scrollbar.set_value (Single value) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.ScrollRect.UpdateScrollbars (Vector2 offset) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.ScrollRect.Rebuild (CanvasUpdate executing) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+UnityEngine.Canvas:ForceUpdateCanvases()
+UnityEngine.UI.GUIScrollRect:EnsureLayoutHasRebuilt()
+UnityEngine.UI.GUIScrollRect:SetNormalizedPosition(Single, Int32)
+UnityEngine.UI.GUIScrollRect:SetVerticalNormalizedPosition(Single)
+UnityEngine.Events.InvokableCall`1:Invoke(Single)
+UnityEngine.Events.UnityEvent`1:Invoke(Single)
+GUIScrollbar:Set(Single, Boolean)
+GUIScrollbar:Set(Single)
+GUIScrollbar:set_value(Single)
+ChatboxPanel:SetupChatbox()
+ChatboxPanel:Start()
+ 
+(Filename:  Line: -1)
+
+Font size and style overrides are only supported for dynamic fonts. Font 'CelestiaMediumReduxChatBox' is not dynamic.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Font size and style overrides are only supported for dynamic fonts. Font 'CelestiaMediumReduxChatBox' is not dynamic.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Font size and style overrides are only supported for dynamic fonts. Font 'CelestiaMediumReduxChatBox' is not dynamic.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Font size and style overrides are only supported for dynamic fonts. Font 'CelestiaMediumReduxChatBox' is not dynamic.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Font size and style overrides are only supported for dynamic fonts. Font 'CelestiaMediumReduxChatBox' is not dynamic.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Font size and style overrides are only supported for dynamic fonts. Font 'CelestiaMediumReduxChatBox' is not dynamic.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+BestFit is only supported for dynamic fonts. Font 'CelestiaMediumReduxChatBox' is not dynamic.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+BestFit is only supported for dynamic fonts. Font 'CelestiaMediumReduxChatBox' is not dynamic.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+BestFit is only supported for dynamic fonts. Font 'CelestiaMediumReduxChatBox' is not dynamic.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+BestFit is only supported for dynamic fonts. Font 'CelestiaMediumReduxChatBox' is not dynamic.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+BestFit is only supported for dynamic fonts. Font 'CelestiaMediumReduxChatBox' is not dynamic.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+BestFit is only supported for dynamic fonts. Font 'CelestiaMediumReduxChatBox' is not dynamic.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Nothing being traded
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Nothing being traded
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+UnityCloudBuildManifest found
+{"cloudBuildTargetName":"win-lar-64-bit","buildNumber":"35","scmCommitId":"2b1449c9261f521b04fb0b3d152fccfffe940322","buildStartTime":"2/11/2021 2:05:08 AM","projectId":"20066102917097/58aff8e4-f9d0-46fe-b4fe-15ef2db745d0","bundleId":"","scmBranch":"LAR","unityVersion":"2018.1.9f2"}
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Inventory is already closed
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Inventory is already closed
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+known recipes: [ ]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: -76.875, 131.691, 19.565 Rot: 0, 312.721, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 235.717, 226.062, -253.659 Rot: 0, 56.31046, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: -278.245, 187.215, -202.269 Rot: 0, 281.1531, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 95.756, 64.502, 45.004 Rot: 0, 267.726, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: -7.619, 47.099, 106.171 Rot: 0, 275.245, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 277.527, 235.186, -391.596 Rot: 0, 353.9214, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 285.921, 234.887, -395.183 Rot: 0, 353.9214, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 269.942, 235.247, -405.926 Rot: 0, 353.9214, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 282.173, 235.704, -416.696 Rot: 0, 353.9214, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 264.546, 235.484, -423.556 Rot: 0, 353.9214, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 261.576, 235.205, -439.343 Rot: 0, 353.9214, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 283.441, 240.735, -400.797 Rot: 0, 353.9214, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 281.952, 239.687, -406.181 Rot: 0, 353.9214, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 280.683, 239.746, -410.708 Rot: 0, 353.9214, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 279.165, 241.065, -415.519 Rot: 0, 353.9214, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 267.488, 240.541, -397.173 Rot: 0, 353.9214, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 266.262, 239.681, -402.077 Rot: 0, 353.9214, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 265.075, 239.742, -406.796 Rot: 0, 353.9214, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 264.103, 241.079, -411.569 Rot: 0, 353.9214, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 269.023, 235.05, -436.81 Rot: 0, 353.9214, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: -343.313, 67.387, 39.913 Rot: 0, 61.98966, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: -311.064, 66.388, 50.922 Rot: 0, 353.9214, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: -331.7, 86.8, 119.3 Rot: 14.48545, 70.80129, 0.06934097
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: -352, 93, 115 Rot: 349.309, 58.69829, 0.04664591
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: -376.5, 92.5, 97.5 Rot: 354.5641, 50.86994, 359.9532
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: -387, 94, 75 Rot: 355.7467, 8.83483, 0.01597225
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: -351.17, 93.362, 26.874 Rot: 0, 108.3889, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 435.897, 177.357, -145.86 Rot: 0, 73.30597, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 181.278, 58.937, 128.518 Rot: 0, 228.9476, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 279.818, 234.887, -385.533 Rot: 0, 9.63263, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 84.162, 87.388, -13.358 Rot: 0, 329.7499, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: -330.958, 88.152, 119.312 Rot: 344.2286, 258.8943, 359.9732
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: -351.342, 93.799, 114.363 Rot: 346.4833, 243.3902, 0.02239225
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: -376.177, 93.304, 98.053 Rot: 350.8595, 219.8088, 359.9854
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: -386.936, 94.844, 75.06 Rot: 353.6465, 193.5902, 0.05153931
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: -332.131, 67.173, 83.3 Rot: 0, 47.279, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: -311.151, 86.808, 101.299 Rot: 1.023587, 48.27044, 359.9569
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: -310.33, 72.524, 103.842 Rot: 352.662, 49.65888, 0.01848619
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of TriggerPoint. Loc: 0, 0, 0 Rot: 0, 0, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 79.24, 122.548, -102.564 Rot: 0, 328.3146, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 212.676, 57.599, 155.801 Rot: 0, 66.44784, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 7.661, 45.342, 143.703 Rot: 0, 184.2448, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 266.374, 234.863, -432.777 Rot: 0, 197.1297, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -131.237, 134.686, -69.374 Rot: 0, 131.8438, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 448.15, 177.36, -107.053 Rot: 0, 256.1674, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 15.949, 42.587, 175.386 Rot: 0, 174.5001, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 209.658, 238.713, -330.942 Rot: 0, 42.95011, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -77.487, 130.378, 18.888 Rot: 0, 46.5419, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -118.109, 47.614, 74.393 Rot: 0, 166.7785, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -80.848, 185.37, -287.661 Rot: 0, 56.9822, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 230.445, 221.458, -307.091 Rot: 0, 54.25923, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -18.41, 128.419, -64.98 Rot: 0, 19.80646, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -25.734, 176.142, -318.693 Rot: 0, 24.35122, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -537.295, 185.086, -281.76 Rot: 0, 237.4083, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -213.942, 45.735, 76.965 Rot: 0, 153.2894, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 157.961, 61.724, 118.41 Rot: 0, 198.3127, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 269.992, 214.198, -202.743 Rot: 0, 226.6872, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -107.246, 130.464, -52.885 Rot: 0, 153.9675, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -28.309, 139.237, -278.303 Rot: 0, 113.0149, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Could not find view 118 to stream to
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Could not find view 125 to stream to
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -618.793, 170.434, -316.058 Rot: 0, 250.5946, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 77.202, 125.391, -105.582 Rot: 0, 9.535662, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 58.548, 46.562, 81.733 Rot: 0, 304.5889, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -330.2745, 66.09059, 83.06567 Rot: 0, 39.00806, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 50.024, 46.477, 120.175 Rot: 0, 189.5092, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -328.541, 66.732, 101.282 Rot: 0, 127.7296, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -333.486, 67.101, 92.707 Rot: 0, 205.6564, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -599.689, 192.594, -302.508 Rot: 0, 86.63048, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -163.358, 72.172, -14.851 Rot: 0, 281.0073, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -571.8472, 187.4974, -300.2104 Rot: 0, 61.41876, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 294.6521, 255.1109, -391.9606 Rot: 0, 175.51, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -144.8187, 46.34219, 89.66679 Rot: 0, 0, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 28.76377, 46.30377, 85.61586 Rot: 0, 0, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 32.86416, 126.8901, -117.1526 Rot: 0, 0, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -34.83058, 41.35111, 162.5657 Rot: 0, 0, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -18.061, 128.402, -63.795 Rot: 0, 193.4432, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of Mobs/Hornet. Loc: -67.98325, 235.9862, -169.1493 Rot: 0, 76.67974, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of Mobs/Hornet. Loc: -95.43387, 236.1422, -194.6042 Rot: 0, 187.2823, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of Mobs/Hornet. Loc: -86.56065, 236.5944, -149.9771 Rot: 0, 215.2517, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 162.303, 120.74, -83.048 Rot: 0, 324.2346, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -277.106, 185.427, -272.741 Rot: 0, 11.59481, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -126.756, 134.06, -79.24 Rot: 0, 64.5658, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -36.779, 46.149, 88.805 Rot: 0, 101.2379, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 26.869, 48.828, 172.764 Rot: 0, 339.0333, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 61.946, 63.567, 36.249 Rot: 0, 353.9214, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 249.012, 222.344, -257.357 Rot: 0, 166.3356, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 50.989, 46.467, 110.359 Rot: 0, 25.99745, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 117.954, 60.602, 64.891 Rot: 0, 280.2742, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -339.627, 102.337, -81.545 Rot: 0, 45.53345, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -454.101, 185.621, -265.323 Rot: 0, 338.5522, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 27.844, 45.955, 96.113 Rot: 0, 177.3663, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 40.888, 46.52, 103.489 Rot: 0, 260.5355, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -331.108, 103.933, -113.011 Rot: 0, 168.1873, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -30.847, 108.773, -139.359 Rot: 0, 10.67594, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -44.86, 133.577, -250.986 Rot: 0, 337.043, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -264.449, 60.515, 79.194 Rot: 0, 347.9512, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 85.335, 122.553, -102.871 Rot: 0, 145.1805, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 81.342, 85.961, -9.59 Rot: 0, 11.82759, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -70.519, 125.01, -84.6 Rot: 0, 145.547, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -14.339, 121.544, -65.056 Rot: 0, 272.4224, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 3.63, 46.244, 84.602 Rot: 0, 40.98222, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -327.899, 111.412, -87.122 Rot: 0, 279.8188, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 251.928, 221.778, -253.728 Rot: 0, 137.1059, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -303.41, 185.203, -191.474 Rot: 0, 182.8624, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 57.629, 164.013, -287.82 Rot: 0, 286.9692, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -360.246, 186.387, -217.267 Rot: 0, 234.7044, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 250.577, 222.038, -256.646 Rot: 0, 229.3466, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 189.884, 80.657, 67.405 Rot: 0, 304.0671, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -328.894, 66.912, 99.63 Rot: 0, 37.31369, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -317.16, 68.611, 82.637 Rot: 0, 22.957, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 279.686, 221.364, -266.349 Rot: 0, 44.18403, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -340.992, 67.103, 84.179 Rot: 0, 128.0506, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -392.191, 186.012, -221.44 Rot: 0, 147.7562, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -327.657, 66.741, 102.031 Rot: 0, 161.1516, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: 56.25, 164.013, -286.124 Rot: 0, 184.1305, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+network instantiate of PlayerBase. Loc: -302.825, 64.382, 67.954 Rot: 0, 243.1604, 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+known recipes: [ ]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+BestFit is only supported for dynamic fonts. Font 'CelestiaMediumReduxChatBox' is not dynamic.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+BestFit is only supported for dynamic fonts. Font 'CelestiaMediumReduxChatBox' is not dynamic.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+BestFit is only supported for dynamic fonts. Font 'CelestiaMediumReduxChatBox' is not dynamic.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+BestFit is only supported for dynamic fonts. Font 'CelestiaMediumReduxChatBox' is not dynamic.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+BestFit is only supported for dynamic fonts. Font 'CelestiaMediumReduxChatBox' is not dynamic.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+BestFit is only supported for dynamic fonts. Font 'CelestiaMediumReduxChatBox' is not dynamic.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+BestFit is only supported for dynamic fonts. Font 'CelestiaMediumReduxChatBox' is not dynamic.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Texture:GetDataWidth ()
+  at UnityEngine.Texture.get_width () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Texture:GetDataWidth ()
+  at UnityEngine.Texture.get_width () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Texture:GetDataWidth ()
+  at UnityEngine.Texture.get_width () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Texture:GetDataWidth ()
+  at UnityEngine.Texture.get_width () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Texture:GetDataWidth ()
+  at UnityEngine.Texture.get_width () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Texture:GetDataWidth ()
+  at UnityEngine.Texture.get_width () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Texture:GetDataWidth ()
+  at UnityEngine.Texture.get_width () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Texture:GetDataWidth ()
+  at UnityEngine.Texture.get_width () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Texture:GetDataWidth ()
+  at UnityEngine.Texture.get_width () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Texture:GetDataWidth ()
+  at UnityEngine.Texture.get_width () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Texture:GetDataWidth ()
+  at UnityEngine.Texture.get_width () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Font size and style overrides are only supported for dynamic fonts. Font 'CelestiaMediumReduxChatBox' is not dynamic.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MetaMorph2.LoadDiffMaps () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.InitMetaMorph () [0x00000] in <filename unknown>:0 
+  at MetaMorph2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+PVM: Adding new TalentMarkBar!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new TalentMarkBar!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new TalentMarkBar!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new TalentMarkBar!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new TalentMarkBar!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new TalentMarkBar!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new TalentMarkBar!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new TalentMarkBar!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new TalentMarkBar!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new Quest!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+PVM: Adding new Quest!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+GameObjects can not be made active when they are being destroyed.
+ 
+(Filename:  Line: 446)
+
+GameObjects can not be made active when they are being destroyed.
+ 
+(Filename:  Line: 446)
+
+GameObjects can not be made active when they are being destroyed.
+ 
+(Filename:  Line: 446)
+
+GameObjects can not be made active when they are being destroyed.
+ 
+(Filename:  Line: 446)
+
+GameObjects can not be made active when they are being destroyed.
+ 
+(Filename:  Line: 446)
+
+GameObjects can not be made active when they are being destroyed.
+ 
+(Filename:  Line: 446)
+
+GameObjects can not be made active when they are being destroyed.
+ 
+(Filename:  Line: 446)
+
+GameObjects can not be made active when they are being destroyed.
+ 
+(Filename:  Line: 446)
+
+GameObjects can not be made active when they are being destroyed.
+ 
+(Filename:  Line: 446)
+
+UnloadTime: 230.612000 ms
+
+Unloading 6826 unused Assets to reduce memory usage. Loaded Objects now: 22087.
+Total: 57.991000 ms (FindLiveObjects: 1.579500 ms CreateObjectMapping: 2.666600 ms MarkObjects: 36.202700 ms  DeleteObjects: 17.541900 ms)
+
+UnityCloudBuildManifest found
+{"cloudBuildTargetName":"win-lar-64-bit","buildNumber":"35","scmCommitId":"2b1449c9261f521b04fb0b3d152fccfffe940322","buildStartTime":"2/11/2021 2:05:08 AM","projectId":"20066102917097/58aff8e4-f9d0-46fe-b4fe-15ef2db745d0","bundleId":"","scmBranch":"LAR","unityVersion":"2018.1.9f2"}
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Disconnect requested when not connected!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4804 -> priority: 1 
+  Thread -> id: 1690 -> priority: 1 
+  Thread -> id: a028 -> priority: 1 
+  Thread -> id: 97fc -> priority: 1 
+ListenerException: Attempting to remove listener for type "DayTime" but Messenger doesn't know about this event type.
+
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Messenger:OnListenerRemoving(MessageSignature, Delegate)
+Messenger:RemoveListener(Message, Callback)
+MusicManager:OnDestroy()
+ 
+(Filename:  Line: -1)
+
+ListenerException: Attempting to remove listener for type "NightTime" but Messenger doesn't know about this event type.
+
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Messenger:OnListenerRemoving(MessageSignature, Delegate)
+Messenger:RemoveListener(Message, Callback)
+MusicManager:OnDestroy()
+ 
+(Filename:  Line: -1)
+
+ListenerException: Attempting to remove listener for type "StartDanger" but Messenger doesn't know about this event type.
+
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Messenger:OnListenerRemoving(MessageSignature, Delegate)
+Messenger:RemoveListener(Message, Callback)
+MusicManager:OnDestroy()
+ 
+(Filename:  Line: -1)
+
+ListenerException: Attempting to remove listener for type "EndDanger" but Messenger doesn't know about this event type.
+
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Messenger:OnListenerRemoving(MessageSignature, Delegate)
+Messenger:RemoveListener(Message, Callback)
+MusicManager:OnDestroy()
+ 
+(Filename:  Line: -1)
+
+ListenerException: Attempting to remove listener for type "StartBossDanger" but Messenger doesn't know about this event type.
+
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Messenger:OnListenerRemoving(MessageSignature, Delegate)
+Messenger:RemoveListener(Message, Callback)
+MusicManager:OnDestroy()
+ 
+(Filename:  Line: -1)
+
+ListenerException: Attempting to remove listener for type "DayTime" but Messenger doesn't know about this event type.
+
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Messenger:OnListenerRemoving(MessageSignature, Delegate)
+Messenger:RemoveListener(Message, Callback)
+MusicManager:OnDestroy()
+ 
+(Filename:  Line: -1)
+
+ListenerException: Attempting to remove listener for type "NightTime" but Messenger doesn't know about this event type.
+
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Messenger:OnListenerRemoving(MessageSignature, Delegate)
+Messenger:RemoveListener(Message, Callback)
+MusicManager:OnDestroy()
+ 
+(Filename:  Line: -1)
+
+ListenerException: Attempting to remove listener for type "StartDanger" but Messenger doesn't know about this event type.
+
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Messenger:OnListenerRemoving(MessageSignature, Delegate)
+Messenger:RemoveListener(Message, Callback)
+MusicManager:OnDestroy()
+ 
+(Filename:  Line: -1)
+
+ListenerException: Attempting to remove listener for type "EndDanger" but Messenger doesn't know about this event type.
+
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Messenger:OnListenerRemoving(MessageSignature, Delegate)
+Messenger:RemoveListener(Message, Callback)
+MusicManager:OnDestroy()
+ 
+(Filename:  Line: -1)
+
+ListenerException: Attempting to remove listener for type "StartBossDanger" but Messenger doesn't know about this event type.
+
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Messenger:OnListenerRemoving(MessageSignature, Delegate)
+Messenger:RemoveListener(Message, Callback)
+MusicManager:OnDestroy()
+ 
+(Filename:  Line: -1)
+
+
+ 
+(Filename:  Line: -1)
+
+
+ 
+(Filename:  Line: -1)
+
+
+ 
+(Filename:  Line: -1)
+

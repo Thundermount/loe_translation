@@ -1,0 +1,173 @@
+{
+  "ChatBounds": {
+    "x": 0.0,
+    "y": -183.0,
+    "position": {
+      "x": 0.0,
+      "y": -183.0,
+      "normalized": {
+        "x": 0.0,
+        "y": -1.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 183.0,
+      "sqrMagnitude": 33489.0
+    },
+    "center": {
+      "x": 213.5,
+      "y": 56.0,
+      "normalized": {
+        "x": 0.9672796,
+        "y": 0.253712684,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 220.7221,
+      "sqrMagnitude": 48718.25
+    },
+    "min": {
+      "x": 0.0,
+      "y": -183.0,
+      "normalized": {
+        "x": 0.0,
+        "y": -1.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 183.0,
+      "sqrMagnitude": 33489.0
+    },
+    "max": {
+      "x": 427.0,
+      "y": 295.0,
+      "normalized": {
+        "x": 0.8227467,
+        "y": 0.568408132,
+        "normalized": {
+          "x": 0.822746754,
+          "y": 0.5684082,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 518.9933,
+      "sqrMagnitude": 269354.0
+    },
+    "width": 427.0,
+    "height": 478.0,
+    "size": {
+      "x": 427.0,
+      "y": 478.0,
+      "normalized": {
+        "x": 0.6662018,
+        "y": 0.7457715,
+        "normalized": {
+          "x": 0.66620183,
+          "y": 0.7457716,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 640.94696,
+      "sqrMagnitude": 410813.0
+    },
+    "xMin": 0.0,
+    "yMin": -183.0,
+    "xMax": 427.0,
+    "yMax": 295.0,
+    "left": 0.0,
+    "right": 427.0,
+    "top": -183.0,
+    "bottom": 295.0
+  },
+  "ChatMinimized": false,
+  "ModBounds": {
+    "x": 0.0,
+    "y": 0.0,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "magnitude": 0.0,
+      "sqrMagnitude": 0.0
+    },
+    "center": {
+      "x": 130.5,
+      "y": 364.5,
+      "normalized": {
+        "x": 0.3370726,
+        "y": 0.9414786,
+        "normalized": {
+          "x": 0.337072641,
+          "y": 0.94147867,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 387.156952,
+      "sqrMagnitude": 149890.5
+    },
+    "min": {
+      "x": 0.0,
+      "y": 0.0,
+      "magnitude": 0.0,
+      "sqrMagnitude": 0.0
+    },
+    "max": {
+      "x": 261.0,
+      "y": 729.0,
+      "normalized": {
+        "x": 0.3370726,
+        "y": 0.9414786,
+        "normalized": {
+          "x": 0.337072641,
+          "y": 0.94147867,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 774.3139,
+      "sqrMagnitude": 599562.0
+    },
+    "width": 261.0,
+    "height": 729.0,
+    "size": {
+      "x": 261.0,
+      "y": 729.0,
+      "normalized": {
+        "x": 0.3370726,
+        "y": 0.9414786,
+        "normalized": {
+          "x": 0.337072641,
+          "y": 0.94147867,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 774.3139,
+      "sqrMagnitude": 599562.0
+    },
+    "xMin": 0.0,
+    "yMin": 0.0,
+    "xMax": 261.0,
+    "yMax": 729.0,
+    "left": 0.0,
+    "right": 261.0,
+    "top": 0.0,
+    "bottom": 729.0
+  },
+  "ModMinimized": true,
+  "ChatOpacity": 1.0,
+  "PreferredHotbarWidth": 0.0,
+  "MouselookSensitivity": 4.0
+}

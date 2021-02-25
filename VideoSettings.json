@@ -1,0 +1,18 @@
+{
+  "Resolution": {
+    "width": 1920,
+    "height": 1080,
+    "refreshRate": 60
+  },
+  "Fullscreen": true,
+  "Shadows": true,
+  "OverallVideoSettings": 0,
+  "AntiAliasing": 0,
+  "PixelLightCount": 6,
+  "MasterTextureLimit": 0,
+  "AnisotropicFiltering": 1,
+  "SoftVegetation": false,
+  "VSyncCount": 0,
+  "LodBias": 1.0,
+  "RenderDistanceBias": 1.0
+}

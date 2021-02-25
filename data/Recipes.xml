@@ -1,0 +1,4610 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfRecipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Recipe>
+    <ID>0</ID>
+    <ItemId>88</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>51</RequiredLevel>
+    <CraftingStations>Sewing</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Socks</Name>
+    <Reagents>
+      <Reagent ID="158" QTY="5" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>false</IsRNG>
+    <ExperienceGiven>0</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>1</ID>
+    <ItemId>360</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>Inventory Blender MixingBowl</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Applesauce</Name>
+    <Reagents>
+      <Reagent ID="0" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="358" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>100</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>2</ID>
+    <ItemId>360</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>Inventory Blender MixingBowl</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Applesauce</Name>
+    <Reagents>
+      <Reagent ID="1" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="358" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>100</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>3</ID>
+    <ItemId>360</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>Inventory Blender MixingBowl</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Applesauce</Name>
+    <Reagents>
+      <Reagent ID="2" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="358" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>100</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>4</ID>
+    <ItemId>361</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>Oven</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Baked Potato</Name>
+    <Reagents>
+      <Reagent ID="313" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>50</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>5</ID>
+    <ItemId>362</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>MixingBowl</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Basic Salad</Name>
+    <Reagents>
+      <Reagent ID="345" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="348" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>110</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>6</ID>
+    <ItemId>363</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>Blender MixingBowl</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Butter</Name>
+    <Reagents>
+      <Reagent ID="355" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="352" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>110</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>7</ID>
+    <ItemId>364</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>CuttingBoard</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Chopped Veggies</Name>
+    <Reagents>
+      <Reagent ID="4" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="350" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="313" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="353" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>220</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>8</ID>
+    <ItemId>365</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>Blender</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Flour</Name>
+    <Reagents>
+      <Reagent ID="354" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>0</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>9</ID>
+    <ItemId>366</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>Oven</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Hay Fries</Name>
+    <Reagents>
+      <Reagent ID="347" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>55</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>10</ID>
+    <ItemId>367</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>CuttingBoard Blender MixingBowl</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Mint Extract</Name>
+    <Reagents>
+      <Reagent ID="349" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>0</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>11</ID>
+    <ItemId>368</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>Blender</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Pizza Sauce</Name>
+    <Reagents>
+      <Reagent ID="353" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>0</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>12</ID>
+    <ItemId>369</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>MixingBowl</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Citrus Salad</Name>
+    <Reagents>
+      <Reagent ID="362" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="351" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>210</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>13</ID>
+    <ItemId>370</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>MixingBowl</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Pizza Dough</Name>
+    <Reagents>
+      <Reagent ID="365" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="355" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="356" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>0</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>14</ID>
+    <ItemId>371</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>MixingBowl</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Vegetable Stew</Name>
+    <Reagents>
+      <Reagent ID="364" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="352" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="356" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>320</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>15</ID>
+    <ItemId>372</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>MixingBowl</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Deluxe Salad</Name>
+    <Reagents>
+      <Reagent ID="4" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="369" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="353" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>480</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>16</ID>
+    <ItemId>373</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>Oven</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Veggie Pizza</Name>
+    <Reagents>
+      <Reagent ID="4" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="370" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="368" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="353" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1035</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>17</ID>
+    <ItemId>374</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>Inventory CuttingBoard</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Deluxe Veggie Pizza</Name>
+    <Reagents>
+      <Reagent ID="350" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="313" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="68" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="373" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="0" QTY="0" QLTY="0" TOOL="false" />
+      <Reagent ID="1" QTY="0" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1280</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>18</ID>
+    <ItemId>375</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>MixingBowl</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Pie Crust</Name>
+    <Reagents>
+      <Reagent ID="365" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="358" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="41" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="356" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>0</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>19</ID>
+    <ItemId>376</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>40</RequiredLevel>
+    <CraftingStations>MixingBowl</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Fruit Salad</Name>
+    <Reagents>
+      <Reagent ID="0" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="1" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="2" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="3" QTY="3" QLTY="0" TOOL="false" />
+      <Reagent ID="8" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1350</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>20</ID>
+    <ItemId>377</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>40</RequiredLevel>
+    <CraftingStations>Oven</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Veggie Pot Pie</Name>
+    <Reagents>
+      <Reagent ID="375" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="371" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>950</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>21</ID>
+    <ItemId>378</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>Blender</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Apple Juice</Name>
+    <Reagents>
+      <Reagent ID="0" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Drink</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>55</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>22</ID>
+    <ItemId>378</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>Blender</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Apple Juice</Name>
+    <Reagents>
+      <Reagent ID="1" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Drink</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>55</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>23</ID>
+    <ItemId>378</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>Blender</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Apple Juice</Name>
+    <Reagents>
+      <Reagent ID="2" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Drink</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>55</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>24</ID>
+    <ItemId>379</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>Blender MixingBowl</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Cream</Name>
+    <Reagents>
+      <Reagent ID="355" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="358" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Drink</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>100</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>25</ID>
+    <ItemId>380</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>Blender</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Grape Juice</Name>
+    <Reagents>
+      <Reagent ID="346" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Drink</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>55</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>26</ID>
+    <ItemId>381</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>Blender</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Orange Juice</Name>
+    <Reagents>
+      <Reagent ID="351" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Drink</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>55</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>27</ID>
+    <ItemId>382</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>Blender</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Garden Smoothie</Name>
+    <Reagents>
+      <Reagent ID="355" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="384" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Drink</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>200</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>28</ID>
+    <ItemId>383</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>Blender</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Deluxe Smoothie</Name>
+    <Reagents>
+      <Reagent ID="372" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="382" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="355" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Drink</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>600</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>29</ID>
+    <ItemId>384</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>Blender</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Smoothie Mix</Name>
+    <Reagents>
+      <Reagent ID="0" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="3" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="4" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="351" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="26" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Sweet</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>250</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>30</ID>
+    <ItemId>384</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>Blender</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Smoothie Mix</Name>
+    <Reagents>
+      <Reagent ID="1" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="3" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="4" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="351" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="26" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Sweet</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>250</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>31</ID>
+    <ItemId>384</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>Blender</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Smoothie Mix</Name>
+    <Reagents>
+      <Reagent ID="2" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="3" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="4" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="351" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="26" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Sweet</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>250</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>32</ID>
+    <ItemId>385</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>MixingBowl</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Breath Mints</Name>
+    <Reagents>
+      <Reagent ID="367" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="358" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Sweet</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>300</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>33</ID>
+    <ItemId>386</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>MixingBowl</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Chocolate</Name>
+    <Reagents>
+      <Reagent ID="363" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="357" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="355" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="358" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="359" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Sweet</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>510</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>34</ID>
+    <ItemId>387</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>MixingBowl</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Cookie Dough</Name>
+    <Reagents>
+      <Reagent ID="365" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="355" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="358" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="359" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="356" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Sweet</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>550</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>35</ID>
+    <ItemId>388</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>MixingBowl</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Whipped Cream</Name>
+    <Reagents>
+      <Reagent ID="379" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Sweet</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>300</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>36</ID>
+    <ItemId>389</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>Oven</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Almond Cookies</Name>
+    <Reagents>
+      <Reagent ID="343" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="387" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Sweet</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>345</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>37</ID>
+    <ItemId>390</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>MixingBowl</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Cake Batter</Name>
+    <Reagents>
+      <Reagent ID="41" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="365" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="355" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="358" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="356" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Sweet</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>0</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>38</ID>
+    <ItemId>391</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>MixingBowl</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Chocolate Bar</Name>
+    <Reagents>
+      <Reagent ID="386" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Sweet</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>180</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>39</ID>
+    <ItemId>392</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>Inventory</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Chocolate Chip Cookie Dough</Name>
+    <Reagents>
+      <Reagent ID="386" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="387" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>0</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>0</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>40</ID>
+    <ItemId>393</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>MixingBowl</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Icing</Name>
+    <Reagents>
+      <Reagent ID="386" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="358" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="359" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="388" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Sweet</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>400</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>41</ID>
+    <ItemId>394</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>Blender</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Milkshake</Name>
+    <Reagents>
+      <Reagent ID="386" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="355" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="352" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="359" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Sweet</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>400</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>42</ID>
+    <ItemId>395</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>Oven</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Basic Cake</Name>
+    <Reagents>
+      <Reagent ID="363" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="390" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Sweet</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>950</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>43</ID>
+    <ItemId>396</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>Oven</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Basic Cupcakes</Name>
+    <Reagents>
+      <Reagent ID="390" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Sweet</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>750</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>44</ID>
+    <ItemId>397</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>Blender</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Deluxe Milkshake</Name>
+    <Reagents>
+      <Reagent ID="344" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="394" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="388" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Sweet</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>600</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>45</ID>
+    <ItemId>398</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>Oven</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Homemade Chocolate Chip Cookies</Name>
+    <Reagents>
+      <Reagent ID="387" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="386" QTY="4" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Sweet</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>460</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>46</ID>
+    <ItemId>399</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>40</RequiredLevel>
+    <CraftingStations>MixingBowl</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Frosted Cupcakes</Name>
+    <Reagents>
+      <Reagent ID="396" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="393" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Sweet</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>525</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>47</ID>
+    <ItemId>400</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>40</RequiredLevel>
+    <CraftingStations>Inventory CuttingBoard</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Frosted Layer Cake</Name>
+    <Reagents>
+      <Reagent ID="395" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="393" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Sweet</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>550</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>48</ID>
+    <ItemId>401</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>40</RequiredLevel>
+    <CraftingStations>Inventory</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Homemade Apple Pie</Name>
+    <Reagents>
+      <Reagent ID="0" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="375" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="358" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>0</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>0</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>49</ID>
+    <ItemId>401</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>40</RequiredLevel>
+    <CraftingStations>Inventory</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Homemade Apple Pie</Name>
+    <Reagents>
+      <Reagent ID="1" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="375" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="358" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>0</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>0</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>50</ID>
+    <ItemId>401</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>40</RequiredLevel>
+    <CraftingStations>Inventory</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Homemade Apple Pie</Name>
+    <Reagents>
+      <Reagent ID="2" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="375" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="358" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>0</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>0</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>51</ID>
+    <ItemId>43</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>Oven</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Whipped Cream Pie</Name>
+    <Reagents>
+      <Reagent ID="375" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="388" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Sweet</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>660</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>52</ID>
+    <ItemId>44</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>Oven</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Apple Pie</Name>
+    <Reagents>
+      <Reagent ID="1" QTY="3" QLTY="0" TOOL="false" />
+      <Reagent ID="375" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>890</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>53</ID>
+    <ItemId>47</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>Oven</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Strawberry Pie</Name>
+    <Reagents>
+      <Reagent ID="375" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="26" QTY="4" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Food</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>795</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>54</ID>
+    <ItemId>49</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>Oven</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Cherry Pie</Name>
+    <Reagents>
+      <Reagent ID="375" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="344" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="358" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Sweet</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>960</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>55</ID>
+    <ItemId>46</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>Oven</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Banoffee Pie</Name>
+    <Reagents>
+      <Reagent ID="375" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="3" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="358" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Sweet</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>640</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>56</ID>
+    <ItemId>145</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>0</RequiredLevel>
+    <CraftingStations>Forge</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Copper Ingot</Name>
+    <Reagents>
+      <Reagent ID="458" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>false</IsRNG>
+    <ExperienceGiven>12</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>57</ID>
+    <ItemId>146</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>5</RequiredLevel>
+    <CraftingStations>Forge</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Bronze Ingot</Name>
+    <Reagents>
+      <Reagent ID="458" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="459" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>false</IsRNG>
+    <ExperienceGiven>30</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>58</ID>
+    <ItemId>147</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>15</RequiredLevel>
+    <CraftingStations>Forge</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Iron Ingot</Name>
+    <Reagents>
+      <Reagent ID="460" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>false</IsRNG>
+    <ExperienceGiven>51</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>59</ID>
+    <ItemId>148</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>25</RequiredLevel>
+    <CraftingStations>Forge</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Steel Ingot</Name>
+    <Reagents>
+      <Reagent ID="460" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="461" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="153" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>false</IsRNG>
+    <ExperienceGiven>78</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>60</ID>
+    <ItemId>149</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>35</RequiredLevel>
+    <CraftingStations>Forge</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Alicium Ingot</Name>
+    <Reagents>
+      <Reagent ID="462" QTY="3" QLTY="0" TOOL="false" />
+      <Reagent ID="154" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1.8</CraftingTime>
+    <IsRNG>false</IsRNG>
+    <ExperienceGiven>102</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>61</ID>
+    <ItemId>150</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>42</RequiredLevel>
+    <CraftingStations>Forge</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Titanium Ingot</Name>
+    <Reagents>
+      <Reagent ID="460" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="461" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="459" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="153" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>false</IsRNG>
+    <ExperienceGiven>192</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>62</ID>
+    <ItemId>151</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>38</RequiredLevel>
+    <CraftingStations>Forge</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Elementium Ingot</Name>
+    <Reagents>
+      <Reagent ID="463" QTY="3" QLTY="0" TOOL="false" />
+      <Reagent ID="154" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>false</IsRNG>
+    <ExperienceGiven>144</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>63</ID>
+    <ItemId>152</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>46</RequiredLevel>
+    <CraftingStations>Forge</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Spatial Ingot</Name>
+    <Reagents>
+      <Reagent ID="464" QTY="3" QLTY="0" TOOL="false" />
+      <Reagent ID="154" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>false</IsRNG>
+    <ExperienceGiven>180</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>64</ID>
+    <ItemId>156</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>0</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Linen Strap</Name>
+    <Reagents>
+      <Reagent ID="142" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>0.5</CraftingTime>
+    <IsRNG>false</IsRNG>
+    <ExperienceGiven>7</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>65</ID>
+    <ItemId>157</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>0</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Linen Padding</Name>
+    <Reagents>
+      <Reagent ID="142" QTY="4" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>false</IsRNG>
+    <ExperienceGiven>16</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>66</ID>
+    <ItemId>159</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>15</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Canvas Strap</Name>
+    <Reagents>
+      <Reagent ID="143" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>false</IsRNG>
+    <ExperienceGiven>15</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>67</ID>
+    <ItemId>160</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>15</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Canvas Padding</Name>
+    <Reagents>
+      <Reagent ID="143" QTY="4" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>false</IsRNG>
+    <ExperienceGiven>30</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>68</ID>
+    <ItemId>163</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>35</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Woven Strap</Name>
+    <Reagents>
+      <Reagent ID="142" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>false</IsRNG>
+    <ExperienceGiven>32</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>69</ID>
+    <ItemId>164</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>35</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Woven Padding</Name>
+    <Reagents>
+      <Reagent ID="142" QTY="4" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>false</IsRNG>
+    <ExperienceGiven>64</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>70</ID>
+    <ItemId>165</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>46</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Temporal Strap</Name>
+    <Reagents>
+      <Reagent ID="144" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>false</IsRNG>
+    <ExperienceGiven>60</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>71</ID>
+    <ItemId>166</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>46</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Temporal Padding</Name>
+    <Reagents>
+      <Reagent ID="144" QTY="4" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>false</IsRNG>
+    <ExperienceGiven>120</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>72</ID>
+    <ItemId>190</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Copper Front Legs</Name>
+    <Reagents>
+      <Reagent ID="145" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="156" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="157" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>80</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>73</ID>
+    <ItemId>191</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>2</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Copper Chest Plate</Name>
+    <Reagents>
+      <Reagent ID="145" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="156" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="157" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>100</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>74</ID>
+    <ItemId>192</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>4</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Copper Helmet</Name>
+    <Reagents>
+      <Reagent ID="145" QTY="6" QLTY="0" TOOL="false" />
+      <Reagent ID="156" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="157" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>120</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>75</ID>
+    <ItemId>193</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>12</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Bronze Back Plate</Name>
+    <Reagents>
+      <Reagent ID="146" QTY="6" QLTY="0" TOOL="false" />
+      <Reagent ID="156" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="157" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>300</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>76</ID>
+    <ItemId>194</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>7</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Bronze Chest Plate</Name>
+    <Reagents>
+      <Reagent ID="146" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="156" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="157" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>215</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>77</ID>
+    <ItemId>195</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>5</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Bronze Front Legs</Name>
+    <Reagents>
+      <Reagent ID="146" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="156" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="157" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>160</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>78</ID>
+    <ItemId>196</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>9</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Bronze Helmet</Name>
+    <Reagents>
+      <Reagent ID="146" QTY="6" QLTY="0" TOOL="false" />
+      <Reagent ID="156" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="157" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>270</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>79</ID>
+    <ItemId>197</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>17</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Iron Back Legs</Name>
+    <Reagents>
+      <Reagent ID="147" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="159" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="160" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>300</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>80</ID>
+    <ItemId>198</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>23</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Iron Back Plate</Name>
+    <Reagents>
+      <Reagent ID="147" QTY="6" QLTY="0" TOOL="false" />
+      <Reagent ID="159" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="160" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>510</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>81</ID>
+    <ItemId>199</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>19</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Iron Chest Plate</Name>
+    <Reagents>
+      <Reagent ID="147" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="159" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="160" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>390</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>82</ID>
+    <ItemId>200</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>15</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Iron Front Legs</Name>
+    <Reagents>
+      <Reagent ID="147" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="159" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="160" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>280</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>83</ID>
+    <ItemId>201</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>21</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Iron Helmet</Name>
+    <Reagents>
+      <Reagent ID="147" QTY="6" QLTY="0" TOOL="false" />
+      <Reagent ID="159" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="160" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>480</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>84</ID>
+    <ItemId>202</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>27</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Steel Back Legs</Name>
+    <Reagents>
+      <Reagent ID="148" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="159" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="160" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>440</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>85</ID>
+    <ItemId>203</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>33</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Steel Back Plate</Name>
+    <Reagents>
+      <Reagent ID="148" QTY="6" QLTY="0" TOOL="false" />
+      <Reagent ID="159" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="160" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>780</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>86</ID>
+    <ItemId>204</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>29</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Steel Chest Plate</Name>
+    <Reagents>
+      <Reagent ID="148" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="159" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="160" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>575</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>87</ID>
+    <ItemId>205</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>25</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Steel Front Legs</Name>
+    <Reagents>
+      <Reagent ID="148" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="159" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="160" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>400</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>88</ID>
+    <ItemId>206</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>31</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Steel Helmet</Name>
+    <Reagents>
+      <Reagent ID="148" QTY="6" QLTY="0" TOOL="false" />
+      <Reagent ID="159" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="160" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>720</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>89</ID>
+    <ItemId>207</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>35</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Alicium Back Legs</Name>
+    <Reagents>
+      <Reagent ID="149" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="163" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="164" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>600</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>90</ID>
+    <ItemId>208</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>38</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Alicium Back Plate</Name>
+    <Reagents>
+      <Reagent ID="149" QTY="6" QLTY="0" TOOL="false" />
+      <Reagent ID="163" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="164" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1020</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>91</ID>
+    <ItemId>209</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>36</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Alicium Chest Plate</Name>
+    <Reagents>
+      <Reagent ID="149" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="163" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="164" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>775</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>92</ID>
+    <ItemId>210</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>35</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Alicium Front Legs</Name>
+    <Reagents>
+      <Reagent ID="149" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="163" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="164" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>600</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>93</ID>
+    <ItemId>211</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>37</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Alicium Helmet</Name>
+    <Reagents>
+      <Reagent ID="149" QTY="6" QLTY="0" TOOL="false" />
+      <Reagent ID="163" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="164" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>960</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>94</ID>
+    <ItemId>212</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>42</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Titanium Back Legs</Name>
+    <Reagents>
+      <Reagent ID="150" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="163" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="164" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>4</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1120</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>95</ID>
+    <ItemId>213</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>45</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Titanium Back Plate</Name>
+    <Reagents>
+      <Reagent ID="150" QTY="6" QLTY="0" TOOL="false" />
+      <Reagent ID="163" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="164" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>4</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1920</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>96</ID>
+    <ItemId>214</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>43</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Titanium Chest Plate</Name>
+    <Reagents>
+      <Reagent ID="150" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="163" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="164" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>4</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1450</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>97</ID>
+    <ItemId>215</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>42</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Titanium Front Legs</Name>
+    <Reagents>
+      <Reagent ID="150" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="163" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="164" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>4</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1120</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>98</ID>
+    <ItemId>216</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>44</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Titanium Helmet</Name>
+    <Reagents>
+      <Reagent ID="150" QTY="6" QLTY="0" TOOL="false" />
+      <Reagent ID="163" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="164" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>4</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1800</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>99</ID>
+    <ItemId>217</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>38</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Elementium Back Legs</Name>
+    <Reagents>
+      <Reagent ID="151" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="163" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="164" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>800</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>100</ID>
+    <ItemId>218</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>41</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Elementium Back Plate</Name>
+    <Reagents>
+      <Reagent ID="151" QTY="6" QLTY="0" TOOL="false" />
+      <Reagent ID="163" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="164" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1440</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>101</ID>
+    <ItemId>219</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>39</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Elementium Chest Plate</Name>
+    <Reagents>
+      <Reagent ID="151" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="163" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="164" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1050</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>102</ID>
+    <ItemId>220</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>38</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Elementium Front Legs</Name>
+    <Reagents>
+      <Reagent ID="151" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="163" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="164" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>800</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>103</ID>
+    <ItemId>221</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>40</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Elementium Helmet</Name>
+    <Reagents>
+      <Reagent ID="151" QTY="6" QLTY="0" TOOL="false" />
+      <Reagent ID="163" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="164" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1320</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>104</ID>
+    <ItemId>222</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>46</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Harmonious Back Legs</Name>
+    <Reagents>
+      <Reagent ID="152" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="165" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="166" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>4</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1120</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>105</ID>
+    <ItemId>223</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>49</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Harmonious Back Plate</Name>
+    <Reagents>
+      <Reagent ID="152" QTY="6" QLTY="0" TOOL="false" />
+      <Reagent ID="165" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="166" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>4</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1800</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>106</ID>
+    <ItemId>224</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>47</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Harmonious Chest Plate</Name>
+    <Reagents>
+      <Reagent ID="152" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="165" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="166" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>4</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1425</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>107</ID>
+    <ItemId>225</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>46</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Harmonious Front Legs</Name>
+    <Reagents>
+      <Reagent ID="152" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="165" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="166" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>4</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1120</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>108</ID>
+    <ItemId>226</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>48</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Harmonious Helmet</Name>
+    <Reagents>
+      <Reagent ID="152" QTY="6" QLTY="0" TOOL="false" />
+      <Reagent ID="165" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="166" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>4</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1740</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>109</ID>
+    <ItemId>465</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Magical Copper Front Legs</Name>
+    <Reagents>
+      <Reagent ID="190" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="499" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>400</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>110</ID>
+    <ItemId>466</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>3</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Magical Copper Chest Plate</Name>
+    <Reagents>
+      <Reagent ID="191" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="499" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>500</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>111</ID>
+    <ItemId>467</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>4</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Magical Copper Helmet</Name>
+    <Reagents>
+      <Reagent ID="192" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="499" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>600</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>112</ID>
+    <ItemId>468</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>2</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Defensive Copper Front Legs</Name>
+    <Reagents>
+      <Reagent ID="190" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="500" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>400</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>113</ID>
+    <ItemId>469</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>3</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Defensive Copper Chest Plate</Name>
+    <Reagents>
+      <Reagent ID="191" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="500" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>500</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>114</ID>
+    <ItemId>470</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>4</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Defensive Copper Helmet</Name>
+    <Reagents>
+      <Reagent ID="192" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="500" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>600</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>115</ID>
+    <ItemId>471</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>6</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Enchanted Bronze Front Legs</Name>
+    <Reagents>
+      <Reagent ID="195" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="499" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>4</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>640</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>116</ID>
+    <ItemId>472</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>8</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Enchanted Bronze Chest Plate</Name>
+    <Reagents>
+      <Reagent ID="194" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="499" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>4</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>860</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>117</ID>
+    <ItemId>473</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Enchanted Bronze Helmet</Name>
+    <Reagents>
+      <Reagent ID="196" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="499" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>4</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1080</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>118</ID>
+    <ItemId>474</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>13</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Enchanted Bronze Back Plate</Name>
+    <Reagents>
+      <Reagent ID="193" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="499" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>4</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1200</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>119</ID>
+    <ItemId>476</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>9</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Strengthened Bronze Chest Plate</Name>
+    <Reagents>
+      <Reagent ID="194" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="500" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>4</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>860</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>120</ID>
+    <ItemId>475</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>7</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Strengthened Bronze Front Legs</Name>
+    <Reagents>
+      <Reagent ID="195" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="500" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>4</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>640</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>121</ID>
+    <ItemId>477</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>11</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Strengthened Bronze Helmet</Name>
+    <Reagents>
+      <Reagent ID="196" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="500" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>4</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1080</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>122</ID>
+    <ItemId>478</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>14</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Strengthened Bronze Back Plate</Name>
+    <Reagents>
+      <Reagent ID="193" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="500" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>4</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1200</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>123</ID>
+    <ItemId>479</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>16</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Spellbinding Iron Front Legs</Name>
+    <Reagents>
+      <Reagent ID="200" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="499" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>5</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>840</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>124</ID>
+    <ItemId>480</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>18</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Spellbinding Iron Back Legs</Name>
+    <Reagents>
+      <Reagent ID="197" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="499" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>5</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>900</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>125</ID>
+    <ItemId>481</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Spellbinding Iron Chest Plate</Name>
+    <Reagents>
+      <Reagent ID="199" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="499" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>5</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1170</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>126</ID>
+    <ItemId>482</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>22</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Spellbinding Iron Helmet</Name>
+    <Reagents>
+      <Reagent ID="201" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="499" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>5</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1440</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>127</ID>
+    <ItemId>483</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>23</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Spellbinding Iron Back Plate</Name>
+    <Reagents>
+      <Reagent ID="198" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="499" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>5</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1530</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>128</ID>
+    <ItemId>484</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>17</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Fortified Iron Front Legs</Name>
+    <Reagents>
+      <Reagent ID="200" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="500" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>5</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>840</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>129</ID>
+    <ItemId>485</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>19</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Fortified Iron Back Legs</Name>
+    <Reagents>
+      <Reagent ID="197" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="500" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>5</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>900</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>130</ID>
+    <ItemId>486</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>21</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Fortified Iron Chest Plate</Name>
+    <Reagents>
+      <Reagent ID="199" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="500" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>5</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1170</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>131</ID>
+    <ItemId>487</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>23</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Fortified Iron Helmet</Name>
+    <Reagents>
+      <Reagent ID="201" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="500" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>5</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1440</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>132</ID>
+    <ItemId>488</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>24</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Fortified Iron Back Plate</Name>
+    <Reagents>
+      <Reagent ID="198" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="500" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>5</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1530</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>133</ID>
+    <ItemId>489</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>26</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Elemental Steel Front Legs</Name>
+    <Reagents>
+      <Reagent ID="205" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="499" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>134</ID>
+    <ItemId>490</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>28</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Elemental Steel Back Legs</Name>
+    <Reagents>
+      <Reagent ID="202" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="499" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1100</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>135</ID>
+    <ItemId>491</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Elemental Steel Chest Plate</Name>
+    <Reagents>
+      <Reagent ID="204" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="499" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1435</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>136</ID>
+    <ItemId>492</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>32</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Elemental Steel Helmet</Name>
+    <Reagents>
+      <Reagent ID="206" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="499" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1800</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>137</ID>
+    <ItemId>493</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>33</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Elemental Steel Back Plate</Name>
+    <Reagents>
+      <Reagent ID="203" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="499" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1950</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>138</ID>
+    <ItemId>494</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>27</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Reinforced Steel Front Legs</Name>
+    <Reagents>
+      <Reagent ID="205" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="500" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>139</ID>
+    <ItemId>495</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>29</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Reinforced Steel Back Legs</Name>
+    <Reagents>
+      <Reagent ID="202" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="500" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1100</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>140</ID>
+    <ItemId>496</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>31</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Reinforced Steel Chest Plate</Name>
+    <Reagents>
+      <Reagent ID="204" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="500" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1435</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>141</ID>
+    <ItemId>497</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>33</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Reinforced Steel Helmet</Name>
+    <Reagents>
+      <Reagent ID="206" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="500" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1800</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>142</ID>
+    <ItemId>498</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>34</RequiredLevel>
+    <CraftingStations>Workbench</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Reinforced Steel Back Plate</Name>
+    <Reagents>
+      <Reagent ID="203" QTY="1" QLTY="100" TOOL="false" />
+      <Reagent ID="500" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1950</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>143</ID>
+    <ItemId>236</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Armor Harmony 1</Name>
+    <Reagents>
+      <Reagent ID="500" QTY="3" QLTY="0" TOOL="false" />
+      <Reagent ID="652" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>144</ID>
+    <ItemId>237</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Armor Harmony 2</Name>
+    <Reagents>
+      <Reagent ID="500" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="652" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>2000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>145</ID>
+    <ItemId>238</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Armor Harmony 3</Name>
+    <Reagents>
+      <Reagent ID="500" QTY="5" QLTY="100" TOOL="false" />
+      <Reagent ID="653" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>3000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>146</ID>
+    <ItemId>239</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Armor Harmony 4</Name>
+    <Reagents>
+      <Reagent ID="500" QTY="8" QLTY="100" TOOL="false" />
+      <Reagent ID="653" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>4000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>147</ID>
+    <ItemId>240</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>40</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Armor Harmony 5</Name>
+    <Reagents>
+      <Reagent ID="500" QTY="32" QLTY="100" TOOL="false" />
+      <Reagent ID="654" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>5000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>148</ID>
+    <ItemId>242</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Magic Resist Harmony 1</Name>
+    <Reagents>
+      <Reagent ID="499" QTY="3" QLTY="0" TOOL="false" />
+      <Reagent ID="652" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>149</ID>
+    <ItemId>243</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Magic Resist Harmony 2</Name>
+    <Reagents>
+      <Reagent ID="499" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="652" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>2000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>150</ID>
+    <ItemId>244</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Magic Resist Harmony 3</Name>
+    <Reagents>
+      <Reagent ID="499" QTY="5" QLTY="100" TOOL="false" />
+      <Reagent ID="653" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>3000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>151</ID>
+    <ItemId>245</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Magic Resist Harmony 4</Name>
+    <Reagents>
+      <Reagent ID="499" QTY="8" QLTY="100" TOOL="false" />
+      <Reagent ID="653" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>4000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>152</ID>
+    <ItemId>246</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>40</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Magic Resist Harmony 5</Name>
+    <Reagents>
+      <Reagent ID="499" QTY="32" QLTY="100" TOOL="false" />
+      <Reagent ID="654" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>5000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>153</ID>
+    <ItemId>248</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Health Harmony 1</Name>
+    <Reagents>
+      <Reagent ID="656" QTY="3" QLTY="0" TOOL="false" />
+      <Reagent ID="652" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>154</ID>
+    <ItemId>249</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Health Harmony 2</Name>
+    <Reagents>
+      <Reagent ID="656" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="652" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>2000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>155</ID>
+    <ItemId>250</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Health Harmony 3</Name>
+    <Reagents>
+      <Reagent ID="656" QTY="5" QLTY="100" TOOL="false" />
+      <Reagent ID="653" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>3000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>156</ID>
+    <ItemId>251</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Health Harmony 4</Name>
+    <Reagents>
+      <Reagent ID="656" QTY="8" QLTY="100" TOOL="false" />
+      <Reagent ID="653" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>4000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>157</ID>
+    <ItemId>252</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>40</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Health Harmony 5</Name>
+    <Reagents>
+      <Reagent ID="656" QTY="32" QLTY="100" TOOL="false" />
+      <Reagent ID="654" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>5000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>158</ID>
+    <ItemId>254</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Health Regen Harmony 1</Name>
+    <Reagents>
+      <Reagent ID="71" QTY="3" QLTY="0" TOOL="false" />
+      <Reagent ID="652" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>159</ID>
+    <ItemId>255</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Health Regen Harmony 2</Name>
+    <Reagents>
+      <Reagent ID="71" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="652" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>2000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>160</ID>
+    <ItemId>256</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Health Regen Harmony 3</Name>
+    <Reagents>
+      <Reagent ID="71" QTY="5" QLTY="100" TOOL="false" />
+      <Reagent ID="653" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>3000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>161</ID>
+    <ItemId>257</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Health Regen Harmony 4</Name>
+    <Reagents>
+      <Reagent ID="71" QTY="8" QLTY="100" TOOL="false" />
+      <Reagent ID="653" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>4000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>162</ID>
+    <ItemId>258</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>40</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Health Regen Harmony 5</Name>
+    <Reagents>
+      <Reagent ID="71" QTY="32" QLTY="100" TOOL="false" />
+      <Reagent ID="654" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>5000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>163</ID>
+    <ItemId>260</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Energy Harmony 1</Name>
+    <Reagents>
+      <Reagent ID="657" QTY="3" QLTY="0" TOOL="false" />
+      <Reagent ID="652" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>164</ID>
+    <ItemId>261</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Energy Harmony 2</Name>
+    <Reagents>
+      <Reagent ID="657" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="652" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>2000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>165</ID>
+    <ItemId>262</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Energy Harmony 3</Name>
+    <Reagents>
+      <Reagent ID="657" QTY="5" QLTY="100" TOOL="false" />
+      <Reagent ID="653" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>3000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>166</ID>
+    <ItemId>263</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Energy Harmony 4</Name>
+    <Reagents>
+      <Reagent ID="657" QTY="8" QLTY="100" TOOL="false" />
+      <Reagent ID="653" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>4000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>167</ID>
+    <ItemId>264</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>40</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Energy Harmony 5</Name>
+    <Reagents>
+      <Reagent ID="657" QTY="32" QLTY="100" TOOL="false" />
+      <Reagent ID="654" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>5000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>168</ID>
+    <ItemId>266</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Energy Regen Harmony 1</Name>
+    <Reagents>
+      <Reagent ID="658" QTY="3" QLTY="0" TOOL="false" />
+      <Reagent ID="652" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>169</ID>
+    <ItemId>267</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Energy Regen Harmony 2</Name>
+    <Reagents>
+      <Reagent ID="658" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="652" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>2000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>170</ID>
+    <ItemId>268</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Energy Regen Harmony 3</Name>
+    <Reagents>
+      <Reagent ID="658" QTY="5" QLTY="100" TOOL="false" />
+      <Reagent ID="653" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>3000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>171</ID>
+    <ItemId>269</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Energy Regen Harmony 4</Name>
+    <Reagents>
+      <Reagent ID="658" QTY="8" QLTY="100" TOOL="false" />
+      <Reagent ID="653" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>4000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>172</ID>
+    <ItemId>270</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>40</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Energy Regen Harmony 5</Name>
+    <Reagents>
+      <Reagent ID="658" QTY="32" QLTY="100" TOOL="false" />
+      <Reagent ID="654" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>5000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>173</ID>
+    <ItemId>272</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Movement Speed Harmony 1</Name>
+    <Reagents>
+      <Reagent ID="659" QTY="3" QLTY="0" TOOL="false" />
+      <Reagent ID="652" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>174</ID>
+    <ItemId>273</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Movement Speed Harmony 2</Name>
+    <Reagents>
+      <Reagent ID="659" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="652" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>2000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>175</ID>
+    <ItemId>274</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Movement Speed Harmony 3</Name>
+    <Reagents>
+      <Reagent ID="659" QTY="5" QLTY="100" TOOL="false" />
+      <Reagent ID="653" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>3000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>176</ID>
+    <ItemId>275</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Movement Speed Harmony 4</Name>
+    <Reagents>
+      <Reagent ID="659" QTY="8" QLTY="100" TOOL="false" />
+      <Reagent ID="653" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>4000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>177</ID>
+    <ItemId>276</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>40</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Movement Speed Harmony 5</Name>
+    <Reagents>
+      <Reagent ID="659" QTY="32" QLTY="100" TOOL="false" />
+      <Reagent ID="654" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>5000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>178</ID>
+    <ItemId>278</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Ability Damage Harmony 1</Name>
+    <Reagents>
+      <Reagent ID="660" QTY="3" QLTY="0" TOOL="false" />
+      <Reagent ID="652" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>179</ID>
+    <ItemId>279</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Ability Damage Harmony 2</Name>
+    <Reagents>
+      <Reagent ID="660" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="652" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>2000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>180</ID>
+    <ItemId>280</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Ability Damage Harmony 3</Name>
+    <Reagents>
+      <Reagent ID="660" QTY="5" QLTY="100" TOOL="false" />
+      <Reagent ID="653" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>3000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>181</ID>
+    <ItemId>281</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Ability Damage Harmony 4</Name>
+    <Reagents>
+      <Reagent ID="660" QTY="8" QLTY="100" TOOL="false" />
+      <Reagent ID="653" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>4000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>182</ID>
+    <ItemId>282</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>40</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Ability Damage Harmony 5</Name>
+    <Reagents>
+      <Reagent ID="660" QTY="32" QLTY="100" TOOL="false" />
+      <Reagent ID="654" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>5000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>183</ID>
+    <ItemId>284</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Ability Healing Harmony 1</Name>
+    <Reagents>
+      <Reagent ID="661" QTY="3" QLTY="0" TOOL="false" />
+      <Reagent ID="652" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>184</ID>
+    <ItemId>285</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Ability Healing Harmony 2</Name>
+    <Reagents>
+      <Reagent ID="661" QTY="5" QLTY="0" TOOL="false" />
+      <Reagent ID="652" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>2000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>185</ID>
+    <ItemId>286</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Ability Healing Harmony 3</Name>
+    <Reagents>
+      <Reagent ID="661" QTY="5" QLTY="100" TOOL="false" />
+      <Reagent ID="653" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>3000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>186</ID>
+    <ItemId>287</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Ability Healing Harmony 4</Name>
+    <Reagents>
+      <Reagent ID="661" QTY="8" QLTY="100" TOOL="false" />
+      <Reagent ID="653" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>4000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>187</ID>
+    <ItemId>288</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>40</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Ability Healing Harmony 5</Name>
+    <Reagents>
+      <Reagent ID="661" QTY="32" QLTY="100" TOOL="false" />
+      <Reagent ID="654" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>5000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>188</ID>
+    <ItemId>290</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Payback Harmony 4</Name>
+    <Reagents>
+      <Reagent ID="662" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="654" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>4000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>189</ID>
+    <ItemId>291</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>40</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Payback Harmony 5</Name>
+    <Reagents>
+      <Reagent ID="662" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="655" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>5000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>190</ID>
+    <ItemId>293</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Starlight Harmony 4</Name>
+    <Reagents>
+      <Reagent ID="663" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="654" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>4000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>191</ID>
+    <ItemId>294</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>40</RequiredLevel>
+    <CraftingStations>HarmonyTable</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Starlight Harmony 5</Name>
+    <Reagents>
+      <Reagent ID="663" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="655" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>10</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>5000</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>192</ID>
+    <ItemId>725</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>Forge</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Iridiscent Front Legs</Name>
+    <Reagents>
+      <Reagent ID="720" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="728" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>180</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>193</ID>
+    <ItemId>722</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>Forge</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Iridiscent Back Legs</Name>
+    <Reagents>
+      <Reagent ID="717" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="728" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>180</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>194</ID>
+    <ItemId>724</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>11</RequiredLevel>
+    <CraftingStations>Forge</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Iridiscent Chest Plate</Name>
+    <Reagents>
+      <Reagent ID="719" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="728" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>240</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>195</ID>
+    <ItemId>726</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>12</RequiredLevel>
+    <CraftingStations>Forge</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Iridiscent Helmet</Name>
+    <Reagents>
+      <Reagent ID="721" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="728" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>300</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>196</ID>
+    <ItemId>723</ItemId>
+    <TalentMark>Artisan</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>13</RequiredLevel>
+    <CraftingStations>Forge</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Iridiscent Back Plate</Name>
+    <Reagents>
+      <Reagent ID="718" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="728" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>330</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>197</ID>
+    <ItemId>780</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>Blender</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Coffee</Name>
+    <Reagents>
+      <Reagent ID="859" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="356" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="355" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="358" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Drink</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>200</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>198</ID>
+    <ItemId>781</ItemId>
+    <TalentMark>Cooking</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>Blender</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Tea</Name>
+    <Reagents>
+      <Reagent ID="356" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="349" QTY="3" QLTY="0" TOOL="false" />
+      <Reagent ID="782" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Drink</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>150</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>199</ID>
+    <ItemId>834</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>3</RequiredLevel>
+    <CraftingStations>AlchemySet</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Arcane Potion Brewing Guide</Name>
+    <Reagents>
+      <Reagent ID="790" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="26" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="356" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Potion</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>500</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>200</ID>
+    <ItemId>835</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>5</RequiredLevel>
+    <CraftingStations>AlchemySet</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Vitality Potion Brewing Guide</Name>
+    <Reagents>
+      <Reagent ID="791" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="364" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="356" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Potion</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>630</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>201</ID>
+    <ItemId>836</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>8</RequiredLevel>
+    <CraftingStations>AlchemySet</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Power Potion Brewing Guide</Name>
+    <Reagents>
+      <Reagent ID="792" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="343" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="356" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Potion</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>700</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>202</ID>
+    <ItemId>837</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>AlchemySet</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Toughness Potion Brewing Guide</Name>
+    <Reagents>
+      <Reagent ID="795" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="363" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="0" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Potion</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>750</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>203</ID>
+    <ItemId>838</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>11</RequiredLevel>
+    <CraftingStations>AlchemySet</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Elusive Potion Brewing Guide</Name>
+    <Reagents>
+      <Reagent ID="794" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="772" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="355" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Potion</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>880</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>204</ID>
+    <ItemId>839</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>14</RequiredLevel>
+    <CraftingStations>AlchemySet</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Expeditious Potion Brewing Guide</Name>
+    <Reagents>
+      <Reagent ID="793" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="393" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="356" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Potion</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>910</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>205</ID>
+    <ItemId>840</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>16</RequiredLevel>
+    <CraftingStations>AlchemySet</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Warding Potion Brewing Guide</Name>
+    <Reagents>
+      <Reagent ID="796" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="779" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="356" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Potion</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1160</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>206</ID>
+    <ItemId>841</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>22</RequiredLevel>
+    <CraftingStations>AlchemySet</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Phantom Potion Brewing Guide</Name>
+    <Reagents>
+      <Reagent ID="797" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="386" QTY="4" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Potion</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1250</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>207</ID>
+    <ItemId>842</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>20</RequiredLevel>
+    <CraftingStations>AlchemySet</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Vibrance Potion Brewing Guide</Name>
+    <Reagents>
+      <Reagent ID="798" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="779" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="356" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Potion</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1200</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>208</ID>
+    <ItemId>844</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>24</RequiredLevel>
+    <CraftingStations>AlchemySet</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Warrior Potion Brewing Guide</Name>
+    <Reagents>
+      <Reagent ID="800" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="394" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="355" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Potion</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1480</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>209</ID>
+    <ItemId>843</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>27</RequiredLevel>
+    <CraftingStations>AlchemySet</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Battlemage Potion Brewing Guide</Name>
+    <Reagents>
+      <Reagent ID="799" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="367" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="355" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Potion</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>1620</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>210</ID>
+    <ItemId>845</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>4</Yield>
+    <RequiredLevel>30</RequiredLevel>
+    <CraftingStations>AlchemySet</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Flux Brewing Guide</Name>
+    <Reagents>
+      <Reagent ID="801" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="356" QTY="4" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Potion</RecipeTag>
+    <CraftingTime>6</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>600</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>211</ID>
+    <ItemId>849</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>2</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Ponydale Teleport Crystal Assembly Guide</Name>
+    <Reagents>
+      <Reagent ID="330" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="786" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="848" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Artifice</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>40</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>212</ID>
+    <ItemId>850</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>4</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Crystal Kingdom Teleport Crystal Assembly Guide</Name>
+    <Reagents>
+      <Reagent ID="330" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="664" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="848" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Artifice</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>90</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>213</ID>
+    <ItemId>851</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>9</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Apple Orchard Teleport Crystal Assembly Guide</Name>
+    <Reagents>
+      <Reagent ID="330" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="830" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="848" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Artifice</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>170</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>214</ID>
+    <ItemId>852</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>13</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Cantermore Teleport Crystal Assembly Guide</Name>
+    <Reagents>
+      <Reagent ID="330" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="71" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="848" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Artifice</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>230</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>215</ID>
+    <ItemId>854</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>19</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Frontier Teleport Crystal Assembly Guide</Name>
+    <Reagents>
+      <Reagent ID="330" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="830" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="848" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Artifice</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>410</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>216</ID>
+    <ItemId>855</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>21</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Evershade Teleport Crystal Assembly Guide</Name>
+    <Reagents>
+      <Reagent ID="330" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="434" QTY="4" QLTY="0" TOOL="false" />
+      <Reagent ID="848" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Artifice</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>460</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>217</ID>
+    <ItemId>856</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>23</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Evershade Hut Teleport Crystal Assembly Guide</Name>
+    <Reagents>
+      <Reagent ID="330" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="434" QTY="6" QLTY="0" TOOL="false" />
+      <Reagent ID="848" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Artifice</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>490</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>218</ID>
+    <ItemId>857</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>25</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Evershade Gorge Teleport Crystal Assembly Guide</Name>
+    <Reagents>
+      <Reagent ID="330" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="462" QTY="6" QLTY="0" TOOL="false" />
+      <Reagent ID="652" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Artifice</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>510</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>219</ID>
+    <ItemId>858</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>28</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Explorer's Teleport Crystal Assembly Guide</Name>
+    <Reagents>
+      <Reagent ID="330" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="660" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="652" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Artifice</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>540</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>220</ID>
+    <ItemId>860</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>5</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Paper Production Guide</Name>
+    <Reagents>
+      <Reagent ID="432" QTY="3" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>15</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>221</ID>
+    <ItemId>744</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>6</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Fireworks Assembly Guide</Name>
+    <Reagents>
+      <Reagent ID="461" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="860" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="728" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>90</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>222</ID>
+    <ItemId>762</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>12</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Fireworks Rise Assembly Guide</Name>
+    <Reagents>
+      <Reagent ID="461" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="860" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="156" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="728" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>120</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>223</ID>
+    <ItemId>764</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>18</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Red Firework Pearls Assembly Guide</Name>
+    <Reagents>
+      <Reagent ID="72" QTY="32" QLTY="0" TOOL="false" />
+      <Reagent ID="153" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>240</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>224</ID>
+    <ItemId>765</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>18</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Green Firework Pearls Assembly Guide</Name>
+    <Reagents>
+      <Reagent ID="847" QTY="32" QLTY="0" TOOL="false" />
+      <Reagent ID="153" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>240</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>225</ID>
+    <ItemId>766</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>18</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Blue Firework Pearls Assembly Guide</Name>
+    <Reagents>
+      <Reagent ID="846" QTY="32" QLTY="0" TOOL="false" />
+      <Reagent ID="153" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>240</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>226</ID>
+    <ItemId>853</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>17</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Cloudopolis Teleport Crystal Assembly Guide</Name>
+    <Reagents>
+      <Reagent ID="330" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="39" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="848" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Artifice</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>300</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>227</ID>
+    <ItemId>72</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>8</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Ruby Dust Production Guide</Name>
+    <Reagents>
+      <Reagent ID="71" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>40</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>228</ID>
+    <ItemId>847</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>8</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Emerald Dust Production Guide</Name>
+    <Reagents>
+      <Reagent ID="500" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Artifice</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>40</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>229</ID>
+    <ItemId>846</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>8</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Sapphire Dust Production Guide</Name>
+    <Reagents>
+      <Reagent ID="499" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Artifice</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>40</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>230</ID>
+    <ItemId>848</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>8</Yield>
+    <RequiredLevel>1</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Diamond Dust Production Guide</Name>
+    <Reagents>
+      <Reagent ID="659" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>Artifice</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>40</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>231</ID>
+    <ItemId>728</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>7</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Prismatic Crystal Shard Production Guide</Name>
+    <Reagents>
+      <Reagent ID="664" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="419" QTY="2" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>2</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>160</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>232</ID>
+    <ItemId>153</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>16</Yield>
+    <RequiredLevel>10</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Heating Catalyst Production Guide</Name>
+    <Reagents>
+      <Reagent ID="461" QTY="16" QLTY="0" TOOL="false" />
+      <Reagent ID="800" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>3</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>400</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>233</ID>
+    <ItemId>652</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>15</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Basic Infusion Production Guide</Name>
+    <Reagents>
+      <Reagent ID="72" QTY="16" QLTY="0" TOOL="false" />
+      <Reagent ID="846" QTY="16" QLTY="0" TOOL="false" />
+      <Reagent ID="847" QTY="16" QLTY="0" TOOL="false" />
+      <Reagent ID="848" QTY="16" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>15</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>680</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>234</ID>
+    <ItemId>653</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>26</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Advanced Infusion Production Guide</Name>
+    <Reagents>
+      <Reagent ID="652" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="662" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>9</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>740</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>235</ID>
+    <ItemId>654</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>42</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Legendary Infusion Production Guide</Name>
+    <Reagents>
+      <Reagent ID="653" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="663" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>9</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>850</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>236</ID>
+    <ItemId>154</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>36</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Magical Catalyst Production Guide</Name>
+    <Reagents>
+      <Reagent ID="330" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="434" QTY="8" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>4</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>760</ExperienceGiven>
+  </Recipe>
+  <Recipe>
+    <ID>237</ID>
+    <ItemId>763</ItemId>
+    <TalentMark>Science</TalentMark>
+    <Yield>1</Yield>
+    <RequiredLevel>15</RequiredLevel>
+    <CraftingStations>AssemblyRunes</CraftingStations>
+    <RequiresRecipe>true</RequiresRecipe>
+    <Name>Fireworks Trail Assembly Guide</Name>
+    <Reagents>
+      <Reagent ID="461" QTY="2" QLTY="0" TOOL="false" />
+      <Reagent ID="157" QTY="1" QLTY="0" TOOL="false" />
+      <Reagent ID="728" QTY="1" QLTY="0" TOOL="false" />
+    </Reagents>
+    <Byproducts />
+    <RecipeTag>General</RecipeTag>
+    <CraftingTime>1</CraftingTime>
+    <IsRNG>true</IsRNG>
+    <ExperienceGiven>150</ExperienceGiven>
+  </Recipe>
+</ArrayOfRecipe>
