@@ -6,6 +6,26 @@ Foal Speed Ahead
 Полный вперед
 Walk to the gazebo.
 Подойдите к беседке
+Meet Windhover
+Встретьтесь с Windhover
+Walk over to the gazebo at the back of the schoolyard. "Use the WASD keys to move. “W” moves you forward, “S” moves you backwards, and “A” and “D” make you turn to the left and to the right. Don’t worry, even newborn ponies can walk almost immediately. Give it a try!" -- Windhover
+Подойдите к беседке в задней части школьного двора. "Используйте клавиши WASD для перемещения. “W” перемещает вас вперед, “S” - назад, а “A” и “D” заставляют вас поворачиваться влево и вправо. Не волнуйтесь, даже молодые пони могут прогуляйтесь почти сразу. Попробуйте!" - Windhover
+Congratulations, you’ve taken your first steps into the wide world of Equestria! To start off, you should talk to Windhover, your teacher. They can help introduce you to Equestria, instruct you on how to get around and use your abilities, and get you started on the right track. They’ll teach you about earning your talent mark, growing up, and even direct you to your classmates, who might have adventures of their own planned to help you learn more about what a pony can do! You can interact with your teacher, and everypony else in Equestria, by using your mouse buttons. If you’d like to change that, or just want to check how the rest of the controls work, you can always take a look at them in the options menu in the bottom right of the screen. Look for the yellow exclamation point above Windhover’s head, and have fun! -Ellowee
+Поздравляем, вы сделали первые шаги в необъятный мир Эквестрии! Для начала вам следует поговорить с Виндховером, вашим учителем. Они могут помочь познакомить вас с Эквестрией, проинструктировать, как передвигаться и использовать свои способности, и направить вас на верный путь. Они помогут вам получить ваш знак отличия, повзрослеть и даже направят вас к одноклассникам, у которых могут быть собственные заготовленные приключения, которые помогут вам узнать больше о том, на что способны пони! Вы можете взаимодействовать со своим учителем и всеми остальными пони в Эквестрии, используя кнопки мыши. Если вы хотите изменить это или просто хотите проверить, как работают остальные элементы управления, вы всегда можете взглянуть на них в меню параметров в правом нижнем углу экрана. Ищите желтый восклицательный знак над головой Виндховера и приятной игры! -Ellowee
+I have explored the gazebo. I should return to Windhover and see what my next task is.
+Я изучил беседку. Мне следует вернуться к Windhover и узнать о своем следующем задании.
+Jump atop the short pillar.
+Прыгните на вершину небольшого стоба.
+"You need to learn how to jump if you want to get to the top of that pillar! Tap the SPACEBAR to Jump. Jump while using the movement keys to Jump in that direction. Get those hooves off the ground!" -- Windhover
+"Вам нужно научиться прыгать чтобы забраться на вершину этого столба! Нажмите пробел чтобы прыгнуть. Сочетайте прыжок и клавиши передвижения чтобы контроллировать направление прыжка. Поднимите эти копыта с земли!" -- Windhover
+Talk to Crank
+Поговорите с Crank
+Talk to Wind Runner
+Поговорите с Wind Runner
+Talk to Storm Chaser
+Поговорите с Storm Chaser
+I’m going to have a stroll around town and talk to citizens about what makes us special. "To find the next stage of a quest, you can always look for yellow exclamation points (!) on the minimap in the upper left corner of the screen. Good luck." -- Windhover
+Я собираюсь прогуляться по городу и поспрашивать жителей о том что делает нас особенными. "Чтобы найти следующую цель квеста, вы всегда можете посмотреть на восклицательные знаки (!) на миникарте в верхнем левом углу экрана. Удачи." -- Windhover
 Foal Time Student
 Молодой студент
 Talk to Frizzy Stradlin
