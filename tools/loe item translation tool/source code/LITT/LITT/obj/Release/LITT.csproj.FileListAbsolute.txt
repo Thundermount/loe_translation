@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2017\Projects\LITT\LITT\bin\Release\LITT.exe.config
+D:\Documents\Visual Studio 2017\Projects\LITT\LITT\bin\Release\LITT.exe
+D:\Documents\Visual Studio 2017\Projects\LITT\LITT\bin\Release\LITT.pdb
+D:\Documents\Visual Studio 2017\Projects\LITT\LITT\obj\Release\LITT.Form1.resources
+D:\Documents\Visual Studio 2017\Projects\LITT\LITT\obj\Release\LITT.Properties.Resources.resources
+D:\Documents\Visual Studio 2017\Projects\LITT\LITT\obj\Release\LITT.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2017\Projects\LITT\LITT\obj\Release\LITT.exe
+D:\Documents\Visual Studio 2017\Projects\LITT\LITT\obj\Release\LITT.pdb
