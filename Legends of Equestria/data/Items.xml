@@ -3018,8 +3018,8 @@
     <Icon>99</Icon>
     <ItemLevel>2</ItemLevel>
     <RequiredLevel>10</RequiredLevel>
-    <Description>A shiny pair of lightweight nickel boots for your back hooves.</Description>
-    <Name>Nickel Back Legs</Name>
+    <Description>Блестящая пара легких никелевых ботинок для ваших задних копыт.</Description>
+    <Name>Никелевые задние ноги</Name>
     <ResourcePath>Clothes/Armor/Bronze Armor/Silver Bronze Armor/Silver Bronze Armor Back Legs</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>1</MaxStackSize>
@@ -3037,8 +3037,8 @@
     <Icon>103</Icon>
     <ItemLevel>2</ItemLevel>
     <RequiredLevel>10</RequiredLevel>
-    <Description>A highly-polished lightweight nickel back plate that offers good protection against attacks.</Description>
-    <Name>Nickel Back Plate</Name>
+    <Description>Хорошо отпалированная легкая никелевая задняя пластина, защищающая от атак сзади.</Description>
+    <Name>Никелевая задняя пластина</Name>
     <ResourcePath>Clothes/Armor/Bronze Armor/Silver Bronze Armor/Silver Bronze Armor Back Plate</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>1</MaxStackSize>
@@ -3056,8 +3056,8 @@
     <Icon>100</Icon>
     <ItemLevel>2</ItemLevel>
     <RequiredLevel>10</RequiredLevel>
-    <Description>A shiny lightweight nickel chest plate that offers front-facing protection.</Description>
-    <Name>Nickel Chest Plate</Name>
+    <Description>Блестящая легкая никелевая нагрудная пластина, защищающая от атак спереди.</Description>
+    <Name>Никелевая нагрудная пластина</Name>
     <ResourcePath>Clothes/Armor/Bronze Armor/Silver Bronze Armor/Silver Bronze Armor Chest Plate</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>1</MaxStackSize>
@@ -3075,8 +3075,8 @@
     <Icon>101</Icon>
     <ItemLevel>2</ItemLevel>
     <RequiredLevel>10</RequiredLevel>
-    <Description>A shiny lightweight pair of nickel boots for your front hooves.</Description>
-    <Name>Nickel Front Legs</Name>
+    <Description>Блестящая легкая пара никелевых сапог для ваших передних ног.</Description>
+    <Name>Никелевые передние ноги</Name>
     <ResourcePath>Clothes/Armor/Bronze Armor/Silver Bronze Armor/Silver Bronze Armor Front Legs</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>1</MaxStackSize>
@@ -3094,8 +3094,8 @@
     <Icon>102</Icon>
     <ItemLevel>2</ItemLevel>
     <RequiredLevel>10</RequiredLevel>
-    <Description>A highly-polished lightweight nickel helmet that glints brightly in the sun.</Description>
-    <Name>Nickel Helmet</Name>
+    <Description>Хорошо отпалированный легкий никелевый шлем, который блестит на солнце.</Description>
+    <Name>Никелевый шлем</Name>
     <ResourcePath>Clothes/Armor/Bronze Armor/Silver Bronze Armor/Silver Bronze Armor Helmet</ResourcePath>
     <Stackable>true</Stackable>
     <MaxStackSize>1</MaxStackSize>
