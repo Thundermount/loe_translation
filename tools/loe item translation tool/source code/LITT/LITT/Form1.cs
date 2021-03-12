@@ -17,6 +17,7 @@ namespace LITT
         XmlDocument doc;
         string filename;
         List<XmlNode> ItemList;
+        List<Image> Sprites;
         public Form1()
         {
             InitializeComponent();
@@ -38,11 +39,19 @@ namespace LITT
                 LoadXml();
                 comboBox1.Enabled = true;
                 button1.Enabled = true;
+           
+                    
+                
+                
+                
+                    //MessageBox.Show("Удалось загрузить предметы, но не удалось загрузить атлас картинок с предметами.");
+                
             }
             catch (Exception)
             {
                 MessageBox.Show("Ошибка загрузки файла.");
             }
+            LoadSprites();
         }
         void LoadXml()
         {
@@ -62,6 +71,40 @@ namespace LITT
 
             }
         }
+        void LoadSprites()
+        {
+            string atlas_file;
+            string[] af = filename.Split('\\');
+            af[af.Length-1] = "Atlas.png";
+            atlas_file = string.Join("/", af);
+            Image Atlas = Image.FromFile(atlas_file);
+            Sprites = new List<Image>();
+            int x = 0;
+            int y = 0;
+            for(int i = 0; i < ItemList.Count; i++)
+            {
+                if (i%32 == 0)
+                {
+                    y = (i / 32) * 64;
+                    x = 0;
+                }
+                Rectangle cropArea = new Rectangle(x, y, 64, 64);
+                Bitmap src = Atlas as Bitmap;
+                Bitmap target = new Bitmap(cropArea.Width, cropArea.Height);
+
+                using (Graphics g = Graphics.FromImage(target))
+                {
+                    g.DrawImage(src, new Rectangle(0, 0, target.Width, target.Height),
+                                     cropArea,
+                                     GraphicsUnit.Pixel);
+                    
+                }
+                Sprites.Add(target);
+                x += 64;
+                
+            }
+        }
+        
         void SaveData()
         {
             ItemList[comboBox1.SelectedIndex].SelectSingleNode("Name").InnerText = nameBox2.Text;
@@ -79,6 +122,14 @@ namespace LITT
             DescrBox1.Text = ItemList[comboBox1.SelectedIndex].SelectSingleNode("Description").InnerText;
             nameBox2.Text = "";
             DescrBox2.Text = "";
+            try
+            {
+                pictureBox1.Image = Sprites[Convert.ToInt32(ItemList[comboBox1.SelectedIndex].SelectSingleNode("Icon").InnerText)];
+            }
+            catch (Exception)
+            {
+
+            }
         }
 
         private void сохранитьToolStripMenuItem_Click(object sender, EventArgs e)

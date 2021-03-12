@@ -6,3 +6,11 @@ D:\Documents\Visual Studio 2017\Projects\LITT\LITT\obj\Release\LITT.Properties.R
 D:\Documents\Visual Studio 2017\Projects\LITT\LITT\obj\Release\LITT.csproj.GenerateResource.Cache
 D:\Documents\Visual Studio 2017\Projects\LITT\LITT\obj\Release\LITT.exe
 D:\Documents\Visual Studio 2017\Projects\LITT\LITT\obj\Release\LITT.pdb
+D:\Documents\loe_translation\tools\loe item translation tool\source code\LITT\LITT\obj\Release\LITT.Form1.resources
+D:\Documents\loe_translation\tools\loe item translation tool\source code\LITT\LITT\obj\Release\LITT.Properties.Resources.resources
+D:\Documents\loe_translation\tools\loe item translation tool\source code\LITT\LITT\obj\Release\LITT.csproj.GenerateResource.Cache
+D:\Documents\loe_translation\tools\loe item translation tool\source code\LITT\LITT\obj\Release\LITT.exe
+D:\Documents\loe_translation\tools\loe item translation tool\source code\LITT\LITT\obj\Release\LITT.pdb
+D:\Documents\loe_translation\tools\loe item translation tool\source code\LITT\LITT\bin\Release\LITT.exe.config
+D:\Documents\loe_translation\tools\loe item translation tool\source code\LITT\LITT\bin\Release\LITT.exe
+D:\Documents\loe_translation\tools\loe item translation tool\source code\LITT\LITT\bin\Release\LITT.pdb

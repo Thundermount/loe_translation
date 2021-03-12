@@ -7,3 +7,12 @@ D:\Documents\Visual Studio 2017\Projects\LITT\LITT\obj\Debug\LITT.Properties.Res
 D:\Documents\Visual Studio 2017\Projects\LITT\LITT\obj\Debug\LITT.csproj.GenerateResource.Cache
 D:\Documents\Visual Studio 2017\Projects\LITT\LITT\obj\Debug\LITT.exe
 D:\Documents\Visual Studio 2017\Projects\LITT\LITT\obj\Debug\LITT.pdb
+D:\Documents\loe_translation\tools\loe item translation tool\source code\LITT\LITT\bin\Debug\LITT.exe.config
+D:\Documents\loe_translation\tools\loe item translation tool\source code\LITT\LITT\bin\Debug\LITT.exe
+D:\Documents\loe_translation\tools\loe item translation tool\source code\LITT\LITT\bin\Debug\LITT.pdb
+D:\Documents\loe_translation\tools\loe item translation tool\source code\LITT\LITT\obj\Debug\LITT.csprojResolveAssemblyReference.cache
+D:\Documents\loe_translation\tools\loe item translation tool\source code\LITT\LITT\obj\Debug\LITT.Form1.resources
+D:\Documents\loe_translation\tools\loe item translation tool\source code\LITT\LITT\obj\Debug\LITT.Properties.Resources.resources
+D:\Documents\loe_translation\tools\loe item translation tool\source code\LITT\LITT\obj\Debug\LITT.csproj.GenerateResource.Cache
+D:\Documents\loe_translation\tools\loe item translation tool\source code\LITT\LITT\obj\Debug\LITT.exe
+D:\Documents\loe_translation\tools\loe item translation tool\source code\LITT\LITT\obj\Debug\LITT.pdb
